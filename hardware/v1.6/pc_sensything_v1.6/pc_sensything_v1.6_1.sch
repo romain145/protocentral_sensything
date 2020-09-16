@@ -1,0 +1,2738 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr User 16797 11668
+encoding utf-8
+Sheet 2 3
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	12100 2700 12100 2800
+Text GLabel 12100 2700 0    10   BiDi ~ 0
+3.3V
+Wire Wire Line
+	12000 1200 12000 1300
+Text GLabel 12000 1200 0    10   BiDi ~ 0
+3.3V
+Wire Wire Line
+	5600 3100 4900 3100
+Wire Wire Line
+	4900 3100 4900 2850
+Text GLabel 5600 3100 0    10   BiDi ~ 0
+3.3V
+Wire Wire Line
+	6300 2500 6300 2250
+Text GLabel 6300 2500 0    10   BiDi ~ 0
+3.3V
+Wire Wire Line
+	6600 2500 6600 2250
+Text GLabel 6600 2500 0    10   BiDi ~ 0
+3.3V
+Wire Wire Line
+	7200 2500 7200 2300
+Text GLabel 7200 2500 0    10   BiDi ~ 0
+3.3V
+Wire Wire Line
+	7200 4700 7200 4850
+Wire Wire Line
+	7200 4850 8300 4850
+Wire Wire Line
+	8300 4850 8300 4750
+Text GLabel 7200 4700 0    10   BiDi ~ 0
+3.3V
+Wire Wire Line
+	5600 3300 5250 3300
+Wire Wire Line
+	5250 3300 4550 3300
+Wire Wire Line
+	4550 3300 4550 2850
+Wire Wire Line
+	5600 3400 5250 3400
+Wire Wire Line
+	5250 3400 5250 3300
+Connection ~ 5250 3300
+Text GLabel 5600 3300 0    10   BiDi ~ 0
+3.3V
+Wire Wire Line
+	3200 1100 3200 1200
+Text GLabel 3200 1100 0    10   BiDi ~ 0
+3.3V
+Wire Wire Line
+	3600 1100 3600 1200
+Text GLabel 3600 1100 0    10   BiDi ~ 0
+3.3V
+Wire Wire Line
+	2350 6850 2250 6850
+Wire Wire Line
+	2250 6850 2250 6550
+Text GLabel 2350 6850 0    10   BiDi ~ 0
+3.3V
+Wire Wire Line
+	7300 9050 7300 8850
+Wire Wire Line
+	6650 9050 7300 9050
+Connection ~ 7300 9050
+Text GLabel 7300 9050 0    10   BiDi ~ 0
+3.3V
+Wire Wire Line
+	1850 6250 1850 6100
+Wire Wire Line
+	1850 6100 2050 6100
+Wire Wire Line
+	2050 6100 2050 6200
+Wire Wire Line
+	2050 6100 2050 6000
+Connection ~ 2050 6100
+Text GLabel 1850 6250 0    10   BiDi ~ 0
+3.3V
+Wire Wire Line
+	10950 7200 10950 7300
+Text GLabel 10950 7200 0    10   BiDi ~ 0
+3.3V
+Wire Wire Line
+	8250 1200 8250 1300
+Text GLabel 8250 1200 0    10   BiDi ~ 0
+3.3V
+Wire Wire Line
+	9450 1200 9450 1300
+Text GLabel 9450 1200 0    10   BiDi ~ 0
+3.3V
+Wire Wire Line
+	9850 1200 9850 1300
+Text GLabel 9850 1200 0    10   BiDi ~ 0
+3.3V
+Wire Wire Line
+	4050 1100 4050 1200
+Text GLabel 4050 1100 0    10   BiDi ~ 0
+3.3V
+Wire Wire Line
+	2350 7750 2050 7750
+Wire Wire Line
+	2050 7750 2050 7450
+Text GLabel 2350 7750 0    10   BiDi ~ 0
+3.3V
+Wire Wire Line
+	1750 7000 1750 6950
+Wire Wire Line
+	1750 6950 1950 6950
+Wire Wire Line
+	1950 6950 1950 7000
+Wire Wire Line
+	1750 6950 1750 6900
+Connection ~ 1750 6950
+Text GLabel 1750 7000 0    10   BiDi ~ 0
+3.3V
+Wire Wire Line
+	7750 6900 7750 7000
+Wire Wire Line
+	7750 7000 7750 7100
+Wire Wire Line
+	8150 7000 7750 7000
+Connection ~ 7750 7000
+Text GLabel 7750 6900 0    10   BiDi ~ 0
+3.3V
+Wire Wire Line
+	9100 9200 9600 9200
+Wire Wire Line
+	9600 9200 9600 8800
+Text GLabel 9100 9200 0    10   BiDi ~ 0
+3.3V
+Wire Wire Line
+	3700 3900 3850 3900
+Wire Wire Line
+	3850 3900 3850 3500
+Text GLabel 3700 3900 0    10   BiDi ~ 0
+3.3V
+Wire Wire Line
+	12800 7800 12800 7500
+Wire Wire Line
+	14450 7800 12800 7800
+Connection ~ 12800 7800
+Text GLabel 12800 7800 0    10   BiDi ~ 0
+3.3V
+Wire Wire Line
+	14100 7050 14100 7100
+Text GLabel 14100 7050 0    10   BiDi ~ 0
+3.3V
+Wire Wire Line
+	4750 9050 4750 9150
+Text GLabel 4750 9050 0    10   BiDi ~ 0
+3.3V
+Wire Wire Line
+	10800 2550 10800 2600
+Text GLabel 10800 2550 0    10   BiDi ~ 0
+3.3V
+Wire Wire Line
+	12100 3300 12200 3300
+Wire Wire Line
+	12100 3200 12100 3300
+Text Label 12200 3300 0    50   ~ 0
+CHIP_PU
+Wire Wire Line
+	13700 2300 13700 2200
+Wire Wire Line
+	13700 2200 13600 2200
+Text Label 13600 2200 2    50   ~ 0
+CHIP_PU
+Wire Wire Line
+	5600 3900 4900 3900
+Text Label 4900 3900 2    70   ~ 0
+CHIP_PU
+Wire Wire Line
+	2800 3300 2800 3200
+Text GLabel 2800 3300 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	2300 3000 2300 3300
+Text GLabel 2300 3000 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	1900 2400 1900 3300
+Text GLabel 1900 2400 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	2000 4600 2000 4500
+Text GLabel 2000 4600 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	2400 4600 2400 4500
+Text GLabel 2400 4600 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	12050 5200 12050 5300
+Wire Wire Line
+	12050 5300 12050 5400
+Wire Wire Line
+	12050 5400 12050 5600
+Wire Wire Line
+	12050 5200 11950 5200
+Wire Wire Line
+	11950 5300 12050 5300
+Wire Wire Line
+	11950 5400 12050 5400
+Connection ~ 12050 5400
+Connection ~ 12050 5300
+Text GLabel 12050 5200 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	13850 5700 13750 5700
+Wire Wire Line
+	13750 5700 13750 5900
+Wire Wire Line
+	13850 5600 13750 5600
+Wire Wire Line
+	13750 5600 13750 5700
+Connection ~ 13750 5700
+Text GLabel 13850 5700 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	13550 5900 13550 5700
+Text GLabel 13550 5900 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	13350 5900 13350 5600
+Text GLabel 13350 5900 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	13050 5900 13050 5700
+Text GLabel 13050 5900 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	4650 8150 4650 8000
+Text GLabel 4650 8150 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	3200 1600 3200 1500
+Text GLabel 3200 1600 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	3600 1600 3600 1500
+Text GLabel 3600 1600 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	8650 4850 8650 4700
+Text GLabel 8650 4850 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	6650 10050 6750 10050
+Wire Wire Line
+	6750 10050 6750 10350
+Text GLabel 6650 10050 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	7300 9850 7300 9350
+Text GLabel 7300 9850 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	5250 9750 4900 9750
+Wire Wire Line
+	4900 9750 4900 10100
+Text GLabel 5250 9750 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	2350 6950 2250 6950
+Wire Wire Line
+	2250 6950 2250 7050
+Text GLabel 2350 6950 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	10400 7700 10200 7700
+Wire Wire Line
+	10200 7700 10200 8050
+Text GLabel 10400 7700 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	8250 1800 8250 1600
+Text GLabel 8250 1800 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	9450 1800 9450 1600
+Text GLabel 9450 1800 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	9850 1800 9850 1600
+Text GLabel 9850 1800 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	9100 4800 9100 4600
+Text GLabel 9100 4800 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	4050 1600 4050 1500
+Text GLabel 4050 1600 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	2350 7850 2050 7850
+Wire Wire Line
+	2050 7850 2050 8050
+Text GLabel 2350 7850 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	6650 9950 6950 9950
+Wire Wire Line
+	6950 9950 6950 10150
+Text GLabel 6650 9950 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	7550 10150 7550 10050
+Text GLabel 7550 10150 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	7550 8200 7550 8100
+Text GLabel 7550 8200 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	8150 7400 8150 7300
+Text GLabel 8150 7400 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	8800 9400 8800 9200
+Text GLabel 8800 9400 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	3700 4100 3800 4100
+Wire Wire Line
+	3800 4100 3800 4450
+Text GLabel 3700 4100 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	4300 8150 4300 8050
+Text GLabel 4300 8150 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	14450 8400 13400 8400
+Wire Wire Line
+	13400 8400 13400 8500
+Wire Wire Line
+	13400 8500 13400 8600
+Wire Wire Line
+	13400 8600 13400 8700
+Wire Wire Line
+	13400 8700 13400 8900
+Wire Wire Line
+	14450 8500 13400 8500
+Wire Wire Line
+	14450 8600 13400 8600
+Wire Wire Line
+	14450 8700 13400 8700
+Connection ~ 13400 8700
+Connection ~ 13400 8500
+Connection ~ 13400 8600
+Text GLabel 14450 8400 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	14450 8000 13050 8000
+Wire Wire Line
+	13050 8000 13050 8250
+Wire Wire Line
+	13050 8250 12800 8250
+Wire Wire Line
+	12800 8250 12800 8400
+Wire Wire Line
+	12800 8100 12800 8250
+Connection ~ 12800 8250
+Text GLabel 14450 8000 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	10750 3550 10750 3750
+Wire Wire Line
+	11000 3550 10750 3550
+Text GLabel 10750 3550 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	2100 4100 2000 4100
+Wire Wire Line
+	2000 4100 2000 4200
+Wire Wire Line
+	2000 4100 1900 4100
+Connection ~ 2000 4100
+Text Label 1900 4100 2    50   ~ 0
+32K_XP
+Wire Wire Line
+	5600 4200 5100 4200
+Text Label 5100 4200 0    70   ~ 0
+32K_XP
+Wire Wire Line
+	2300 4100 2400 4100
+Wire Wire Line
+	2400 4100 2400 4200
+Wire Wire Line
+	2400 4100 2500 4100
+Connection ~ 2400 4100
+Text Label 2500 4100 0    50   ~ 0
+32K_XN
+Wire Wire Line
+	6600 4700 6600 4950
+Wire Wire Line
+	6600 4950 6350 4950
+Wire Wire Line
+	6350 4950 6350 5400
+Text Label 6350 5400 3    70   ~ 0
+32K_XN
+Wire Wire Line
+	8200 2900 8700 2900
+Wire Wire Line
+	8700 2900 8700 2850
+Wire Wire Line
+	8700 2850 8800 2850
+Text Label 8800 2850 0    70   ~ 0
+MOSI
+Wire Wire Line
+	5250 9450 4900 9450
+Text Label 4900 9450 0    70   ~ 0
+MOSI
+Wire Wire Line
+	14450 7700 14050 7700
+Text Label 14050 7700 2    70   ~ 0
+MOSI
+Wire Wire Line
+	11000 3150 10600 3150
+Text Label 10600 3150 2    50   ~ 0
+MOSI
+Wire Wire Line
+	5250 9350 4900 9350
+Text Label 4900 9350 0    70   ~ 0
+MISO
+Wire Wire Line
+	7100 2500 7100 2050
+Wire Wire Line
+	7100 2050 7250 2050
+Wire Wire Line
+	7250 2050 7250 1850
+Text Label 7250 1850 1    70   ~ 0
+MISO
+Wire Wire Line
+	14450 8100 14050 8100
+Text Label 14050 8100 2    70   ~ 0
+MISO
+Wire Wire Line
+	11000 3450 10600 3450
+Text Label 10600 3450 2    50   ~ 0
+MISO
+Wire Wire Line
+	8200 3000 8800 3000
+Text Label 8800 3000 0    70   ~ 0
+SCLK
+Wire Wire Line
+	5250 9550 4900 9550
+Text Label 4900 9550 0    70   ~ 0
+SCLK
+Wire Wire Line
+	14450 7900 14050 7900
+Text Label 14050 7900 2    70   ~ 0
+SCLK
+Wire Wire Line
+	11000 3350 10600 3350
+Text Label 10600 3350 2    50   ~ 0
+SCLK
+Wire Wire Line
+	15550 4500 15650 4500
+Text Label 15650 4500 0    50   ~ 0
+U0RXD
+Wire Wire Line
+	6900 2500 6900 2000
+Wire Wire Line
+	6900 2000 6950 2000
+Wire Wire Line
+	6950 2000 6950 1850
+Text Label 6950 1850 1    70   ~ 0
+U0RXD
+Wire Wire Line
+	15550 4600 15650 4600
+Text Label 15650 4600 0    50   ~ 0
+U0TXD
+Wire Wire Line
+	6800 2500 6800 1850
+Text Label 6800 1850 1    70   ~ 0
+U0TXD
+Wire Wire Line
+	2400 2500 2300 2500
+Wire Wire Line
+	2300 2500 2300 2700
+Wire Wire Line
+	2300 2500 2000 2500
+Wire Wire Line
+	2000 2500 2000 2400
+Connection ~ 2300 2500
+Wire Wire Line
+	14400 2500 14600 2500
+Wire Wire Line
+	14600 2500 14700 2500
+Wire Wire Line
+	13700 3000 13700 2900
+Wire Wire Line
+	13700 2900 14600 2900
+Wire Wire Line
+	14600 2900 14600 2500
+Text Label 14700 2500 0    50   ~ 0
+DTR
+Connection ~ 14600 2500
+Wire Wire Line
+	14850 5000 14950 5000
+Text Label 14950 5000 0    50   ~ 0
+DTR
+Wire Wire Line
+	14400 3200 14500 3200
+Wire Wire Line
+	14500 3200 14600 3200
+Wire Wire Line
+	14500 3200 14500 2800
+Wire Wire Line
+	14500 2800 13700 2800
+Wire Wire Line
+	13700 2800 13700 2700
+Text Label 14600 3200 0    50   ~ 0
+RTS
+Connection ~ 14500 3200
+Wire Wire Line
+	14850 4800 14950 4800
+Text Label 14950 4800 0    50   ~ 0
+RTS
+Wire Wire Line
+	14000 2500 13900 2500
+Wire Wire Line
+	14000 3200 13900 3200
+Wire Wire Line
+	13700 3500 13600 3500
+Wire Wire Line
+	13700 3500 13700 3400
+Text Label 13600 3500 2    50   ~ 0
+0
+Wire Wire Line
+	12000 1800 12100 1800
+Wire Wire Line
+	12000 1700 12000 1800
+Text Label 12100 1800 0    50   ~ 0
+0
+Wire Wire Line
+	7600 4700 7600 4950
+Wire Wire Line
+	7600 4950 7650 4950
+Wire Wire Line
+	7650 4950 7650 5400
+Text Label 7650 5400 3    70   ~ 0
+0
+Wire Wire Line
+	12550 4900 11950 4900
+Text Label 12550 4900 2    70   ~ 0
+D-
+Wire Wire Line
+	12550 5000 11950 5000
+Text Label 12550 5000 2    70   ~ 0
+D+
+Wire Wire Line
+	12150 4800 12150 4500
+Wire Wire Line
+	12150 4800 11950 4800
+Wire Wire Line
+	12550 4500 13050 4500
+Wire Wire Line
+	13050 4500 13350 4500
+Wire Wire Line
+	13350 4500 13850 4500
+Wire Wire Line
+	13350 5300 13350 4500
+Wire Wire Line
+	13050 5400 13050 4500
+Wire Wire Line
+	12550 4500 12550 4400
+Wire Wire Line
+	12550 4400 12650 4400
+Wire Wire Line
+	12150 4500 12550 4500
+Connection ~ 13350 4500
+Connection ~ 13050 4500
+Text GLabel 12650 4400 2    50   BiDi ~ 0
+VUSB
+Connection ~ 12550 4500
+Wire Wire Line
+	14850 4500 15150 4500
+Text Label 14950 4500 0    70   ~ 0
+TXD
+Wire Wire Line
+	14850 4600 15150 4600
+Text Label 14950 4600 0    70   ~ 0
+RXD
+Wire Wire Line
+	13850 4900 12950 4900
+Wire Wire Line
+	13850 5000 12950 5000
+Wire Wire Line
+	13550 5400 13550 5200
+Wire Wire Line
+	13550 5200 13850 5200
+Wire Wire Line
+	13550 5200 13550 4700
+Wire Wire Line
+	13550 4700 13850 4700
+Wire Wire Line
+	13550 4700 13550 4600
+Wire Wire Line
+	13550 4600 13850 4600
+Connection ~ 13550 5200
+Connection ~ 13550 4700
+Text Label 13550 4600 0    70   ~ 0
+3.3V_F
+Wire Wire Line
+	4650 7600 4650 7550
+Wire Wire Line
+	4650 7600 4300 7600
+Wire Wire Line
+	4300 7600 3850 7600
+Wire Wire Line
+	4300 7750 4300 7600
+Connection ~ 4650 7600
+Text Label 3850 7600 0    70   ~ 0
+BAT_MON
+Connection ~ 4300 7600
+Wire Wire Line
+	5600 3500 5000 3500
+Text Label 5000 3500 2    66   ~ 0
+BAT_MON
+Wire Wire Line
+	5600 3200 4200 3200
+Wire Wire Line
+	4200 2500 2800 2500
+Wire Wire Line
+	2800 2500 2800 2600
+Wire Wire Line
+	2800 2500 2700 2500
+Wire Wire Line
+	4200 3200 4200 2500
+Connection ~ 2800 2500
+Wire Wire Line
+	6650 9150 7150 9150
+Wire Wire Line
+	7150 9150 7150 9750
+Wire Wire Line
+	7150 9750 7550 9750
+Wire Wire Line
+	7550 9650 7550 9750
+Connection ~ 7550 9750
+Text GLabel 6650 9150 0    10   BiDi ~ 0
++5V
+Wire Wire Line
+	3700 4000 3950 4000
+Wire Wire Line
+	3950 4000 3950 3500
+Text GLabel 3700 4000 0    10   BiDi ~ 0
++5V
+Wire Wire Line
+	6650 9450 6950 9450
+Text Label 6750 9450 0    70   ~ 0
+AIN0
+Wire Wire Line
+	10400 9900 9900 9900
+Text Label 10200 9900 0    70   ~ 0
+AIN0
+Wire Wire Line
+	6650 9550 6950 9550
+Text Label 6750 9550 0    70   ~ 0
+AIN1
+Wire Wire Line
+	10400 10000 9700 10000
+Wire Wire Line
+	9700 10000 9700 9900
+Text Label 10200 10000 0    70   ~ 0
+AIN1
+Wire Wire Line
+	6650 9650 6950 9650
+Text Label 6750 9650 0    70   ~ 0
+AIN2
+Wire Wire Line
+	10400 10100 9500 10100
+Wire Wire Line
+	9500 10100 9500 9900
+Text Label 10200 10100 0    70   ~ 0
+AIN2
+Wire Wire Line
+	6650 9750 6950 9750
+Text Label 6750 9750 0    70   ~ 0
+AIN3
+Wire Wire Line
+	10400 10200 9300 10200
+Wire Wire Line
+	9300 10200 9300 9900
+Text Label 10200 10200 0    70   ~ 0
+AIN3
+Wire Wire Line
+	5250 9250 4900 9250
+Text Label 4900 9250 0    70   ~ 0
+~DRDY
+Wire Wire Line
+	5600 4000 4800 4000
+Wire Wire Line
+	4800 4000 4800 4050
+Wire Wire Line
+	4800 4050 4750 4050
+Text Label 4750 4050 2    70   ~ 0
+~DRDY
+Wire Wire Line
+	5250 9650 4750 9650
+Wire Wire Line
+	4750 9650 4750 9550
+Text Label 4900 9650 0    70   ~ 0
+~CS1
+Wire Wire Line
+	7700 4700 7700 4900
+Wire Wire Line
+	7700 4900 7800 4900
+Wire Wire Line
+	7800 4900 7800 5400
+Text Label 7800 5400 3    70   ~ 0
+~CS1
+Wire Wire Line
+	6650 9850 6950 9850
+Text Label 6750 9850 0    70   ~ 0
+REFN0
+Wire Wire Line
+	10200 10300 10800 10300
+Wire Wire Line
+	10800 10300 10800 10200
+Text Label 10200 10300 0    70   ~ 0
+REFN0
+Wire Wire Line
+	6650 9350 6950 9350
+Text Label 6750 9350 0    70   ~ 0
+REFP0
+Wire Wire Line
+	11000 10400 10200 10400
+Wire Wire Line
+	11000 10400 11000 10200
+Text Label 10200 10400 0    70   ~ 0
+REFP0
+Wire Wire Line
+	2350 6650 1850 6650
+Wire Wire Line
+	1850 6650 1650 6650
+Text Label 1650 6650 2    50   ~ 0
+SCL
+Connection ~ 1850 6650
+Wire Wire Line
+	7000 2500 7000 2000
+Wire Wire Line
+	7000 2000 7100 2000
+Wire Wire Line
+	7100 2000 7100 1850
+Text Label 7100 1850 1    70   ~ 0
+SCL
+Wire Wire Line
+	2350 6750 2050 6750
+Wire Wire Line
+	2050 6750 1650 6750
+Wire Wire Line
+	2050 6750 2050 6600
+Text Label 1650 6750 2    50   ~ 0
+SDA
+Connection ~ 2050 6750
+Wire Wire Line
+	6700 2500 6700 2000
+Wire Wire Line
+	6700 2000 6650 2000
+Wire Wire Line
+	6650 2000 6650 1850
+Text Label 6650 1850 1    70   ~ 0
+SDA
+Wire Wire Line
+	10800 7700 10800 7800
+Wire Wire Line
+	10800 7700 10950 7700
+Wire Wire Line
+	10950 7700 11200 7700
+Connection ~ 10800 7700
+Text Label 11050 7700 0    70   ~ 0
+BUTTON
+Connection ~ 10950 7700
+Wire Wire Line
+	7400 4700 7400 5050
+Wire Wire Line
+	7400 5050 7350 5050
+Wire Wire Line
+	7350 5050 7350 5400
+Text Label 7350 5400 3    70   ~ 0
+BUTTON
+Wire Wire Line
+	8200 3900 9100 3900
+Wire Wire Line
+	9100 3900 9100 4300
+Wire Wire Line
+	2350 7550 1750 7550
+Wire Wire Line
+	1750 7550 1500 7550
+Wire Wire Line
+	1750 7550 1750 7400
+Connection ~ 1750 7550
+Text Label 1500 7550 0    70   ~ 0
+SCL1
+Wire Wire Line
+	6700 4700 6700 5000
+Wire Wire Line
+	6700 5000 6500 5000
+Wire Wire Line
+	6500 5000 6500 5400
+Text Label 6500 5400 3    70   ~ 0
+SCL1
+Wire Wire Line
+	2350 7650 1950 7650
+Wire Wire Line
+	1950 7650 1500 7650
+Wire Wire Line
+	1950 7650 1950 7400
+Connection ~ 1950 7650
+Text Label 1500 7650 0    70   ~ 0
+SDA1
+Wire Wire Line
+	6800 4700 6800 5050
+Wire Wire Line
+	6800 5050 6650 5050
+Wire Wire Line
+	6650 5050 6650 5400
+Text Label 6650 5400 3    70   ~ 0
+SDA1
+Wire Wire Line
+	5600 4100 4950 4100
+Wire Wire Line
+	4950 4100 4950 4200
+Wire Wire Line
+	4950 4200 4150 4200
+Wire Wire Line
+	3700 3800 4150 3800
+Wire Wire Line
+	4150 3800 4150 4200
+Wire Wire Line
+	7050 7800 6950 7800
+Wire Wire Line
+	6550 7800 6250 7800
+Text Label 6250 7800 2    40   ~ 0
+WS2812
+Wire Wire Line
+	7000 4700 7000 5150
+Wire Wire Line
+	7000 5150 6950 5150
+Wire Wire Line
+	6950 5150 6950 5400
+Text Label 6950 5400 3    70   ~ 0
+WS2812
+Wire Wire Line
+	4650 7050 4650 7150
+Wire Wire Line
+	4650 7150 5000 7150
+Wire Wire Line
+	5000 7150 5000 7000
+Connection ~ 4650 7150
+Wire Wire Line
+	4350 6850 3450 6850
+Text Label 3500 6850 0    70   ~ 0
+MON_EN
+Wire Wire Line
+	7500 5300 7500 5400
+Text Label 7500 5400 3    70   ~ 0
+MON_EN
+Wire Wire Line
+	4650 6500 4650 6650
+Wire Wire Line
+	4650 6500 5000 6500
+Wire Wire Line
+	5000 6500 5000 6600
+Connection ~ 4650 6500
+Text GLabel 4650 6500 0    10   BiDi ~ 0
+VBAT
+Wire Wire Line
+	14450 7600 14200 7600
+Wire Wire Line
+	14200 7600 14200 7500
+Wire Wire Line
+	14200 7500 14100 7500
+Wire Wire Line
+	14100 7500 14000 7500
+Text Label 14000 7500 2    70   ~ 0
+CS2
+Connection ~ 14100 7500
+Wire Wire Line
+	7300 4700 7300 5050
+Wire Wire Line
+	7300 5050 7200 5050
+Wire Wire Line
+	7200 5050 7200 5400
+Text Label 7200 5400 3    70   ~ 0
+CS2
+Wire Wire Line
+	7500 4900 7500 4700
+Wire Wire Line
+	4950 3700 3700 3700
+Wire Wire Line
+	5600 3800 4950 3800
+Wire Wire Line
+	4950 3800 4950 3700
+Wire Wire Line
+	11000 3250 10800 3250
+Wire Wire Line
+	10800 3250 10600 3250
+Wire Wire Line
+	10800 3000 10800 3250
+Text Label 10600 3250 2    50   ~ 0
+CS3
+Connection ~ 10800 3250
+Wire Wire Line
+	6900 4700 6900 5100
+Wire Wire Line
+	6900 5100 6800 5100
+Wire Wire Line
+	6800 5100 6800 5400
+Text Label 6800 5400 3    70   ~ 0
+CS3
+$Comp
+L pc_sensything_v1.6-eagle-import:10KOHM-1_10W-1%(0603)0603 R8
+U 1 1 3097C624
+P 12100 3000
+AR Path="/3097C624" Ref="R8"  Part="1" 
+AR Path="/5F6237C9/3097C624" Ref="R8"  Part="1" 
+F 0 "R8" H 12100 3060 70  0000 C BNN
+F 1 "10k" H 12100 2940 70  0000 C TNN
+F 2 "pc_sensything_v1.6:0603" H 12100 3000 50  0001 C CNN
+F 3 "" H 12100 3000 50  0001 C CNN
+	1    12100 3000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:3.3V #SUPPLY14
+U 1 1 C4643C99
+P 12100 2700
+AR Path="/C4643C99" Ref="#SUPPLY14"  Part="1" 
+AR Path="/5F6237C9/C4643C99" Ref="#SUPPLY014"  Part="1" 
+F 0 "#SUPPLY014" H 12100 2700 50  0001 C CNN
+F 1 "3.3V" H 12100 2810 59  0000 C BNN
+F 2 "" H 12100 2700 50  0001 C CNN
+F 3 "" H 12100 2700 50  0001 C CNN
+	1    12100 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:INDUCTOR0603 L1
+U 1 1 AE8F7A3D
+P 2800 2900
+AR Path="/AE8F7A3D" Ref="L1"  Part="1" 
+AR Path="/5F6237C9/AE8F7A3D" Ref="L1"  Part="1" 
+F 0 "L1" H 2900 3100 59  0000 L BNN
+F 1 "2.7nH" H 2900 2700 59  0000 L BNN
+F 2 "pc_sensything_v1.6:0603" H 2800 2900 50  0001 C CNN
+F 3 "" H 2800 2900 50  0001 C CNN
+F 4 "NDUC-08762" H 2800 2900 59  0001 L BNN "PROD_ID"
+	1    2800 2900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:2.4PF-0603-50V-5% C48
+U 1 1 7346B388
+P 2300 2900
+AR Path="/7346B388" Ref="C48"  Part="1" 
+AR Path="/5F6237C9/7346B388" Ref="C48"  Part="1" 
+F 0 "C48" H 2360 3015 70  0000 L BNN
+F 1 "2.4pF" H 2360 2815 70  0000 L BNN
+F 2 "pc_sensything_v1.6:0603" H 2300 2900 50  0001 C CNN
+F 3 "" H 2300 2900 50  0001 C CNN
+	1    2300 2900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:5.6PF-50V-5%(0603) C49
+U 1 1 B01C2394
+P 2500 2500
+AR Path="/B01C2394" Ref="C49"  Part="1" 
+AR Path="/5F6237C9/B01C2394" Ref="C49"  Part="1" 
+F 0 "C49" H 2560 2615 59  0000 L BNN
+F 1 "5.6pF" H 2560 2415 59  0000 L BNN
+F 2 "pc_sensything_v1.6:0603" H 2500 2500 50  0001 C CNN
+F 3 "" H 2500 2500 50  0001 C CNN
+F 4 "CAP-12456" H 2500 2500 59  0001 L BNN "PROD_ID"
+	1    2500 2500
+	0    1    -1   0   
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND37
+U 1 1 A56E8B01
+P 2800 3400
+AR Path="/A56E8B01" Ref="#GND37"  Part="1" 
+AR Path="/5F6237C9/A56E8B01" Ref="#GND037"  Part="1" 
+F 0 "#GND037" H 2800 3400 50  0001 C CNN
+F 1 "GND" H 2700 3300 59  0000 L BNN
+F 2 "" H 2800 3400 50  0001 C CNN
+F 3 "" H 2800 3400 50  0001 C CNN
+	1    2800 3400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND45
+U 1 1 5123C17D
+P 2300 3400
+AR Path="/5123C17D" Ref="#GND45"  Part="1" 
+AR Path="/5F6237C9/5123C17D" Ref="#GND045"  Part="1" 
+F 0 "#GND045" H 2300 3400 50  0001 C CNN
+F 1 "GND" H 2200 3300 59  0000 L BNN
+F 2 "" H 2300 3400 50  0001 C CNN
+F 3 "" H 2300 3400 50  0001 C CNN
+	1    2300 3400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:ANTENNATRACE-TUNED E1
+U 1 1 CE606011
+P 2000 2000
+AR Path="/CE606011" Ref="E1"  Part="1" 
+AR Path="/5F6237C9/CE606011" Ref="E1"  Part="1" 
+F 0 "E1" H 2150 1700 59  0000 L BNN
+F 1 "ANTENNA" H 2150 1600 59  0000 L BNN
+F 2 "pc_sensything_v1.6:TRACE_ANTENNA_2.4GHZ_25.7MM_TUNED" H 2000 2000 50  0001 C CNN
+F 3 "" H 2000 2000 50  0001 C CNN
+	1    2000 2000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND46
+U 1 1 6BBB6AA2
+P 1900 3400
+AR Path="/6BBB6AA2" Ref="#GND46"  Part="1" 
+AR Path="/5F6237C9/6BBB6AA2" Ref="#GND046"  Part="1" 
+F 0 "#GND046" H 1900 3400 50  0001 C CNN
+F 1 "GND" H 1800 3300 59  0000 L BNN
+F 2 "" H 1900 3400 50  0001 C CNN
+F 3 "" H 1900 3400 50  0001 C CNN
+	1    1900 3400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:10KOHM-0603-1_10W-1% R9
+U 1 1 22FF1DF3
+P 14200 2500
+AR Path="/22FF1DF3" Ref="R9"  Part="1" 
+AR Path="/5F6237C9/22FF1DF3" Ref="R9"  Part="1" 
+F 0 "R9" H 14200 2560 70  0000 C BNN
+F 1 "10k" H 14200 2440 70  0000 C TNN
+F 2 "pc_sensything_v1.6:0603" H 14200 2500 50  0001 C CNN
+F 3 "" H 14200 2500 50  0001 C CNN
+	1    14200 2500
+	-1   0    0    1   
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:10KOHM-0603-1_10W-1% R10
+U 1 1 C0B20218
+P 14200 3200
+AR Path="/C0B20218" Ref="R10"  Part="1" 
+AR Path="/5F6237C9/C0B20218" Ref="R10"  Part="1" 
+F 0 "R10" H 14200 3260 70  0000 C BNN
+F 1 "10k" H 14200 3140 70  0000 C TNN
+F 2 "pc_sensything_v1.6:0603" H 14200 3200 50  0001 C CNN
+F 3 "" H 14200 3200 50  0001 C CNN
+	1    14200 3200
+	-1   0    0    1   
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:MBT3904DW1T1 Q1
+U 1 1 4CD03F9B
+P 13800 2500
+AR Path="/4CD03F9B" Ref="Q1"  Part="1" 
+AR Path="/5F6237C9/4CD03F9B" Ref="Q1"  Part="1" 
+F 0 "Q1" H 13900 2550 70  0000 L CNN
+F 1 "MBT3904DW1T1" H 13900 2450 70  0000 L CNN
+F 2 "pc_sensything_v1.6:SC70-6" H 13800 2500 50  0001 C CNN
+F 3 "" H 13800 2500 50  0001 C CNN
+	1    13800 2500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:MBT3904DW1T1 Q1
+U 2 1 4CD03F97
+P 13800 3200
+AR Path="/4CD03F97" Ref="Q1"  Part="2" 
+AR Path="/5F6237C9/4CD03F97" Ref="Q1"  Part="2" 
+F 0 "Q1" H 13900 3250 70  0000 L CNN
+F 1 "MBT3904DW1T1" H 13900 3150 70  0000 L CNN
+F 2 "pc_sensything_v1.6:SC70-6" H 13800 3200 50  0001 C CNN
+F 3 "" H 13800 3200 50  0001 C CNN
+	2    13800 3200
+	-1   0    0    1   
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:CRYSTAL-32.768KHZSMD-3.2X1.5 Y1
+U 1 1 7D89E2D8
+P 2200 4100
+AR Path="/7D89E2D8" Ref="Y1"  Part="1" 
+AR Path="/5F6237C9/7D89E2D8" Ref="Y1"  Part="1" 
+F 0 "Y1" H 2200 4180 70  0000 C BNN
+F 1 "32.768kHz" H 2200 4020 70  0000 C TNN
+F 2 "pc_sensything_v1.6:CRYSTAL-SMD-3.2X1.5MM" H 2200 4100 50  0001 C CNN
+F 3 "" H 2200 4100 50  0001 C CNN
+	1    2200 4100
+	1    0    0    1   
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:15PF-0603-50V-5% C57
+U 1 1 93B942D3
+P 2000 4300
+AR Path="/93B942D3" Ref="C57"  Part="1" 
+AR Path="/5F6237C9/93B942D3" Ref="C57"  Part="1" 
+F 0 "C57" H 2060 4415 70  0000 L BNN
+F 1 "15pF" H 2060 4215 70  0000 L BNN
+F 2 "pc_sensything_v1.6:0603" H 2000 4300 50  0001 C CNN
+F 3 "" H 2000 4300 50  0001 C CNN
+	1    2000 4300
+	-1   0    0    1   
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:15PF-0603-50V-5% C58
+U 1 1 A2EDA39A
+P 2400 4300
+AR Path="/A2EDA39A" Ref="C58"  Part="1" 
+AR Path="/5F6237C9/A2EDA39A" Ref="C58"  Part="1" 
+F 0 "C58" H 2460 4415 70  0000 L BNN
+F 1 "15pF" H 2460 4215 70  0000 L BNN
+F 2 "pc_sensything_v1.6:0603" H 2400 4300 50  0001 C CNN
+F 3 "" H 2400 4300 50  0001 C CNN
+	1    2400 4300
+	1    0    0    1   
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND49
+U 1 1 3E396B75
+P 2000 4700
+AR Path="/3E396B75" Ref="#GND49"  Part="1" 
+AR Path="/5F6237C9/3E396B75" Ref="#GND049"  Part="1" 
+F 0 "#GND049" H 2000 4700 50  0001 C CNN
+F 1 "GND" H 1900 4600 59  0000 L BNN
+F 2 "" H 2000 4700 50  0001 C CNN
+F 3 "" H 2000 4700 50  0001 C CNN
+	1    2000 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND50
+U 1 1 47931690
+P 2400 4700
+AR Path="/47931690" Ref="#GND50"  Part="1" 
+AR Path="/5F6237C9/47931690" Ref="#GND050"  Part="1" 
+F 0 "#GND050" H 2400 4700 50  0001 C CNN
+F 1 "GND" H 2300 4600 59  0000 L BNN
+F 2 "" H 2400 4700 50  0001 C CNN
+F 3 "" H 2400 4700 50  0001 C CNN
+	1    2400 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:10KOHM-1_10W-1%(0603)0603 R11
+U 1 1 369C72E5
+P 12000 1500
+AR Path="/369C72E5" Ref="R11"  Part="1" 
+AR Path="/5F6237C9/369C72E5" Ref="R11"  Part="1" 
+F 0 "R11" H 12000 1560 70  0000 C BNN
+F 1 "10k" H 12000 1440 70  0000 C TNN
+F 2 "pc_sensything_v1.6:0603" H 12000 1500 50  0001 C CNN
+F 3 "" H 12000 1500 50  0001 C CNN
+	1    12000 1500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:3.3V #SUPPLY25
+U 1 1 517FCEE6
+P 12000 1200
+AR Path="/517FCEE6" Ref="#SUPPLY25"  Part="1" 
+AR Path="/5F6237C9/517FCEE6" Ref="#SUPPLY025"  Part="1" 
+F 0 "#SUPPLY025" H 12000 1200 50  0001 C CNN
+F 1 "3.3V" H 12000 1310 59  0000 C BNN
+F 2 "" H 12000 1200 50  0001 C CNN
+F 3 "" H 12000 1200 50  0001 C CNN
+	1    12000 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:A3L-LOC #FRAME1
+U 1 1 CC96BE83
+P 900 10800
+AR Path="/CC96BE83" Ref="#FRAME1"  Part="1" 
+AR Path="/5F6237C9/CC96BE83" Ref="#FRAME1"  Part="1" 
+F 0 "#FRAME1" H 900 10800 50  0001 C CNN
+F 1 "A3L-LOC" H 900 10800 50  0001 C CNN
+F 2 "" H 900 10800 50  0001 C CNN
+F 3 "" H 900 10800 50  0001 C CNN
+	1    900  10800
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND56
+U 1 1 895B064A
+P 12050 5700
+AR Path="/895B064A" Ref="#GND56"  Part="1" 
+AR Path="/5F6237C9/895B064A" Ref="#GND056"  Part="1" 
+F 0 "#GND056" H 12050 5700 50  0001 C CNN
+F 1 "GND" H 11950 5600 59  0000 L BNN
+F 2 "" H 12050 5700 50  0001 C CNN
+F 3 "" H 12050 5700 50  0001 C CNN
+	1    12050 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:R-US_R0402 R12
+U 1 1 8D50DE8C
+P 15350 4500
+AR Path="/8D50DE8C" Ref="R12"  Part="1" 
+AR Path="/5F6237C9/8D50DE8C" Ref="R12"  Part="1" 
+F 0 "R12" H 15370 4379 59  0000 L BNN
+F 1 "1K" H 15220 4380 59  0000 L BNN
+F 2 "pc_sensything_v1.6:R0402" H 15350 4500 50  0001 C CNN
+F 3 "" H 15350 4500 50  0001 C CNN
+	1    15350 4500
+	-1   0    0    1   
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:R-US_R0402 R13
+U 1 1 221781BE
+P 15350 4600
+AR Path="/221781BE" Ref="R13"  Part="1" 
+AR Path="/5F6237C9/221781BE" Ref="R13"  Part="1" 
+F 0 "R13" H 15350 4659 59  0000 L BNN
+F 1 "1K" H 15220 4660 59  0000 L BNN
+F 2 "pc_sensything_v1.6:R0402" H 15350 4600 50  0001 C CNN
+F 3 "" H 15350 4600 50  0001 C CNN
+	1    15350 4600
+	-1   0    0    1   
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:C-EUC0402 C60
+U 1 1 D15A3F7A
+P 13050 5500
+AR Path="/D15A3F7A" Ref="C60"  Part="1" 
+AR Path="/5F6237C9/D15A3F7A" Ref="C60"  Part="1" 
+F 0 "C60" H 13110 5515 59  0000 L BNN
+F 1 "0.1uF" H 13110 5315 59  0000 L BNN
+F 2 "pc_sensything_v1.6:C0402" H 13050 5500 50  0001 C CNN
+F 3 "" H 13050 5500 50  0001 C CNN
+	1    13050 5500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:C-EUC0805 C61
+U 1 1 B2D74481
+P 13350 5400
+AR Path="/B2D74481" Ref="C61"  Part="1" 
+AR Path="/5F6237C9/B2D74481" Ref="C61"  Part="1" 
+F 0 "C61" H 13410 5415 59  0000 L BNN
+F 1 "10uF" H 13410 5215 59  0000 L BNN
+F 2 "pc_sensything_v1.6:C0805" H 13350 5400 50  0001 C CNN
+F 3 "" H 13350 5400 50  0001 C CNN
+	1    13350 5400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:FT231XS U1
+U 1 1 DF620DA8
+P 14350 5100
+AR Path="/DF620DA8" Ref="U1"  Part="1" 
+AR Path="/5F6237C9/DF620DA8" Ref="U1"  Part="1" 
+F 0 "U1" H 13950 5810 59  0000 L BNN
+F 1 "FTS31XS-U" H 13950 4380 59  0000 L TNN
+F 2 "pc_sensything_v1.6:SSOP20_L" H 14350 5100 50  0001 C CNN
+F 3 "" H 14350 5100 50  0001 C CNN
+	1    14350 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:R-US_R0402 R14
+U 1 1 25A7F8B8
+P 12750 4900
+AR Path="/25A7F8B8" Ref="R14"  Part="1" 
+AR Path="/5F6237C9/25A7F8B8" Ref="R14"  Part="1" 
+F 0 "R14" H 12630 4949 59  0000 L BNN
+F 1 "27" H 12790 4950 59  0000 L BNN
+F 2 "pc_sensything_v1.6:R0402" H 12750 4900 50  0001 C CNN
+F 3 "" H 12750 4900 50  0001 C CNN
+	1    12750 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:R-US_R0402 R15
+U 1 1 91B2837A
+P 12750 5000
+AR Path="/91B2837A" Ref="R15"  Part="1" 
+AR Path="/5F6237C9/91B2837A" Ref="R15"  Part="1" 
+F 0 "R15" H 12780 4879 59  0000 L BNN
+F 1 "27" H 12630 4880 59  0000 L BNN
+F 2 "pc_sensything_v1.6:R0402" H 12750 5000 50  0001 C CNN
+F 3 "" H 12750 5000 50  0001 C CNN
+	1    12750 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:C-EUC0402 C62
+U 1 1 9D866B95
+P 13550 5500
+AR Path="/9D866B95" Ref="C62"  Part="1" 
+AR Path="/5F6237C9/9D866B95" Ref="C62"  Part="1" 
+F 0 "C62" H 13610 5515 59  0000 L BNN
+F 1 "0.1uF" H 13610 5315 59  0000 L BNN
+F 2 "pc_sensything_v1.6:C0402" H 13550 5500 50  0001 C CNN
+F 3 "" H 13550 5500 50  0001 C CNN
+	1    13550 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND57
+U 1 1 304CF269
+P 13750 6000
+AR Path="/304CF269" Ref="#GND57"  Part="1" 
+AR Path="/5F6237C9/304CF269" Ref="#GND057"  Part="1" 
+F 0 "#GND057" H 13750 6000 50  0001 C CNN
+F 1 "GND" H 13650 5900 59  0000 L BNN
+F 2 "" H 13750 6000 50  0001 C CNN
+F 3 "" H 13750 6000 50  0001 C CNN
+	1    13750 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND58
+U 1 1 E30E6F28
+P 13550 6000
+AR Path="/E30E6F28" Ref="#GND58"  Part="1" 
+AR Path="/5F6237C9/E30E6F28" Ref="#GND058"  Part="1" 
+F 0 "#GND058" H 13550 6000 50  0001 C CNN
+F 1 "GND" H 13450 5900 59  0000 L BNN
+F 2 "" H 13550 6000 50  0001 C CNN
+F 3 "" H 13550 6000 50  0001 C CNN
+	1    13550 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND66
+U 1 1 DD6D0F79
+P 13350 6000
+AR Path="/DD6D0F79" Ref="#GND66"  Part="1" 
+AR Path="/5F6237C9/DD6D0F79" Ref="#GND066"  Part="1" 
+F 0 "#GND066" H 13350 6000 50  0001 C CNN
+F 1 "GND" H 13250 5900 59  0000 L BNN
+F 2 "" H 13350 6000 50  0001 C CNN
+F 3 "" H 13350 6000 50  0001 C CNN
+	1    13350 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND69
+U 1 1 660B32C3
+P 13050 6000
+AR Path="/660B32C3" Ref="#GND69"  Part="1" 
+AR Path="/5F6237C9/660B32C3" Ref="#GND069"  Part="1" 
+F 0 "#GND069" H 13050 6000 50  0001 C CNN
+F 1 "GND" H 12950 5900 59  0000 L BNN
+F 2 "" H 13050 6000 50  0001 C CNN
+F 3 "" H 13050 6000 50  0001 C CNN
+	1    13050 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:MICRO-B JP7
+U 1 1 ADC4B3B7
+P 11650 5000
+AR Path="/ADC4B3B7" Ref="JP7"  Part="1" 
+AR Path="/5F6237C9/ADC4B3B7" Ref="JP7"  Part="1" 
+F 0 "JP7" H 11460 5320 59  0000 L BNN
+F 1 "MICRO-B" H 11450 4410 59  0000 L BNN
+F 2 "pc_sensything_v1.6:MICRO-B" H 11650 5000 50  0001 C CNN
+F 3 "" H 11650 5000 50  0001 C CNN
+	1    11650 5000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:10KOHM-1_10W-1%(0603)0603 R25
+U 1 1 CA2E3B38
+P 4650 7350
+AR Path="/CA2E3B38" Ref="R25"  Part="1" 
+AR Path="/5F6237C9/CA2E3B38" Ref="R25"  Part="1" 
+F 0 "R25" H 4650 7410 70  0000 C BNN
+F 1 "10k" H 4650 7290 70  0000 C TNN
+F 2 "pc_sensything_v1.6:0603" H 4650 7350 50  0001 C CNN
+F 3 "" H 4650 7350 50  0001 C CNN
+	1    4650 7350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:10KOHM-1_10W-1%(0603)0603 R26
+U 1 1 58B67C68
+P 4650 7800
+AR Path="/58B67C68" Ref="R26"  Part="1" 
+AR Path="/5F6237C9/58B67C68" Ref="R26"  Part="1" 
+F 0 "R26" H 4650 7860 70  0000 C BNN
+F 1 "10k" H 4650 7740 70  0000 C TNN
+F 2 "pc_sensything_v1.6:0603" H 4650 7800 50  0001 C CNN
+F 3 "" H 4650 7800 50  0001 C CNN
+	1    4650 7800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND80
+U 1 1 1FBC4899
+P 4650 8250
+AR Path="/1FBC4899" Ref="#GND80"  Part="1" 
+AR Path="/5F6237C9/1FBC4899" Ref="#GND080"  Part="1" 
+F 0 "#GND080" H 4650 8250 50  0001 C CNN
+F 1 "GND" H 4550 8150 59  0000 L BNN
+F 2 "" H 4650 8250 50  0001 C CNN
+F 3 "" H 4650 8250 50  0001 C CNN
+	1    4650 8250
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:CY8C29666_QFN48 IC1
+U 1 1 F634405A
+P 6900 3600
+AR Path="/F634405A" Ref="IC1"  Part="1" 
+AR Path="/5F6237C9/F634405A" Ref="IC1"  Part="1" 
+F 0 "IC1" H 6000 2800 42  0001 L BNN
+F 1 "ESP32-PICO-D4" H 6000 2700 42  0001 L BNN
+F 2 "pc_sensything_v1.6:QFN48" H 6900 3600 50  0001 C CNN
+F 3 "" H 6900 3600 50  0001 C CNN
+	1    6900 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:CY8C29666_QFN48 IC1
+U 2 1 F6344056
+P 8650 4600
+AR Path="/F6344056" Ref="IC1"  Part="2" 
+AR Path="/5F6237C9/F6344056" Ref="IC1"  Part="2" 
+F 0 "IC1" H 7750 3800 42  0001 L BNN
+F 1 "ESP32-PICO-D4" H 7750 3700 42  0001 L BNN
+F 2 "pc_sensything_v1.6:QFN48" H 8650 4600 50  0001 C CNN
+F 3 "" H 8650 4600 50  0001 C CNN
+	2    8650 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:3.3V #SUPPLY1
+U 1 1 F54A36B8
+P 4900 2850
+AR Path="/F54A36B8" Ref="#SUPPLY1"  Part="1" 
+AR Path="/5F6237C9/F54A36B8" Ref="#SUPPLY01"  Part="1" 
+F 0 "#SUPPLY01" H 4900 2850 50  0001 C CNN
+F 1 "3.3V" H 4900 2960 59  0000 C BNN
+F 2 "" H 4900 2850 50  0001 C CNN
+F 3 "" H 4900 2850 50  0001 C CNN
+	1    4900 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:3.3V #SUPPLY2
+U 1 1 19032892
+P 6300 2250
+AR Path="/19032892" Ref="#SUPPLY2"  Part="1" 
+AR Path="/5F6237C9/19032892" Ref="#SUPPLY02"  Part="1" 
+F 0 "#SUPPLY02" H 6300 2250 50  0001 C CNN
+F 1 "3.3V" H 6300 2360 59  0000 C BNN
+F 2 "" H 6300 2250 50  0001 C CNN
+F 3 "" H 6300 2250 50  0001 C CNN
+	1    6300 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:3.3V #SUPPLY12
+U 1 1 31C2C8A5
+P 6600 2250
+AR Path="/31C2C8A5" Ref="#SUPPLY12"  Part="1" 
+AR Path="/5F6237C9/31C2C8A5" Ref="#SUPPLY012"  Part="1" 
+F 0 "#SUPPLY012" H 6600 2250 50  0001 C CNN
+F 1 "3.3V" H 6600 2360 59  0000 C BNN
+F 2 "" H 6600 2250 50  0001 C CNN
+F 3 "" H 6600 2250 50  0001 C CNN
+	1    6600 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:3.3V #SUPPLY13
+U 1 1 8D803956
+P 7200 2300
+AR Path="/8D803956" Ref="#SUPPLY13"  Part="1" 
+AR Path="/5F6237C9/8D803956" Ref="#SUPPLY013"  Part="1" 
+F 0 "#SUPPLY013" H 7200 2300 50  0001 C CNN
+F 1 "3.3V" H 7200 2410 59  0000 C BNN
+F 2 "" H 7200 2300 50  0001 C CNN
+F 3 "" H 7200 2300 50  0001 C CNN
+	1    7200 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:3.3V #SUPPLY15
+U 1 1 2739B52F
+P 8300 4750
+AR Path="/2739B52F" Ref="#SUPPLY15"  Part="1" 
+AR Path="/5F6237C9/2739B52F" Ref="#SUPPLY015"  Part="1" 
+F 0 "#SUPPLY015" H 8300 4750 50  0001 C CNN
+F 1 "3.3V" H 8300 4860 59  0000 C BNN
+F 2 "" H 8300 4750 50  0001 C CNN
+F 3 "" H 8300 4750 50  0001 C CNN
+	1    8300 4750
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:3.3V #SUPPLY16
+U 1 1 86F85EE9
+P 4550 2850
+AR Path="/86F85EE9" Ref="#SUPPLY16"  Part="1" 
+AR Path="/5F6237C9/86F85EE9" Ref="#SUPPLY016"  Part="1" 
+F 0 "#SUPPLY016" H 4550 2850 50  0001 C CNN
+F 1 "3.3V" H 4550 2960 59  0000 C BNN
+F 2 "" H 4550 2850 50  0001 C CNN
+F 3 "" H 4550 2850 50  0001 C CNN
+	1    4550 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:0.1UF-0402-16V-10% C11
+U 1 1 5487FD53
+P 3200 1400
+AR Path="/5487FD53" Ref="C11"  Part="1" 
+AR Path="/5F6237C9/5487FD53" Ref="C11"  Part="1" 
+F 0 "C11" H 3260 1515 70  0000 L BNN
+F 1 "0.1uF" H 3260 1315 70  0000 L BNN
+F 2 "pc_sensything_v1.6:0402" H 3200 1400 50  0001 C CNN
+F 3 "" H 3200 1400 50  0001 C CNN
+	1    3200 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:3.3V #SUPPLY17
+U 1 1 26B7FE90
+P 3200 1100
+AR Path="/26B7FE90" Ref="#SUPPLY17"  Part="1" 
+AR Path="/5F6237C9/26B7FE90" Ref="#SUPPLY017"  Part="1" 
+F 0 "#SUPPLY017" H 3200 1100 50  0001 C CNN
+F 1 "3.3V" H 3200 1210 59  0000 C BNN
+F 2 "" H 3200 1100 50  0001 C CNN
+F 3 "" H 3200 1100 50  0001 C CNN
+	1    3200 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND9
+U 1 1 FD0A31A1
+P 3200 1700
+AR Path="/FD0A31A1" Ref="#GND9"  Part="1" 
+AR Path="/5F6237C9/FD0A31A1" Ref="#GND09"  Part="1" 
+F 0 "#GND09" H 3200 1700 50  0001 C CNN
+F 1 "GND" H 3100 1600 59  0000 L BNN
+F 2 "" H 3200 1700 50  0001 C CNN
+F 3 "" H 3200 1700 50  0001 C CNN
+	1    3200 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:10UF-0603-6.3V-20% C15
+U 1 1 8DD62327
+P 3600 1400
+AR Path="/8DD62327" Ref="C15"  Part="1" 
+AR Path="/5F6237C9/8DD62327" Ref="C15"  Part="1" 
+F 0 "C15" H 3660 1515 70  0000 L BNN
+F 1 "10uF" H 3660 1315 70  0000 L BNN
+F 2 "pc_sensything_v1.6:0603" H 3600 1400 50  0001 C CNN
+F 3 "" H 3600 1400 50  0001 C CNN
+	1    3600 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:3.3V #SUPPLY18
+U 1 1 C00D883A
+P 3600 1100
+AR Path="/C00D883A" Ref="#SUPPLY18"  Part="1" 
+AR Path="/5F6237C9/C00D883A" Ref="#SUPPLY018"  Part="1" 
+F 0 "#SUPPLY018" H 3600 1100 50  0001 C CNN
+F 1 "3.3V" H 3600 1210 59  0000 C BNN
+F 2 "" H 3600 1100 50  0001 C CNN
+F 3 "" H 3600 1100 50  0001 C CNN
+	1    3600 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND10
+U 1 1 0087CD10
+P 3600 1700
+AR Path="/0087CD10" Ref="#GND10"  Part="1" 
+AR Path="/5F6237C9/0087CD10" Ref="#GND010"  Part="1" 
+F 0 "#GND010" H 3600 1700 50  0001 C CNN
+F 1 "GND" H 3500 1600 59  0000 L BNN
+F 2 "" H 3600 1700 50  0001 C CNN
+F 3 "" H 3600 1700 50  0001 C CNN
+	1    3600 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND11
+U 1 1 5518330F
+P 8650 4950
+AR Path="/5518330F" Ref="#GND11"  Part="1" 
+AR Path="/5F6237C9/5518330F" Ref="#GND011"  Part="1" 
+F 0 "#GND011" H 8650 4950 50  0001 C CNN
+F 1 "GND" H 8550 4850 59  0000 L BNN
+F 2 "" H 8650 4950 50  0001 C CNN
+F 3 "" H 8650 4950 50  0001 C CNN
+	1    8650 4950
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:ADS1220 U$9
+U 1 1 9E0009A5
+P 5850 9950
+AR Path="/9E0009A5" Ref="U$9"  Part="1" 
+AR Path="/5F6237C9/9E0009A5" Ref="U$9"  Part="1" 
+F 0 "U$9" H 5650 10950 73  0000 L BNN
+F 1 "ADS1220" H 5750 9650 73  0000 L BNN
+F 2 "pc_sensything_v1.6:TSSOP-16" H 5850 9950 50  0001 C CNN
+F 3 "" H 5850 9950 50  0001 C CNN
+	1    5850 9950
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:C-EUC0805 C9
+U 1 1 501DA122
+P 7300 9150
+AR Path="/501DA122" Ref="C9"  Part="1" 
+AR Path="/5F6237C9/501DA122" Ref="C9"  Part="1" 
+F 0 "C9" H 7360 9165 59  0000 L BNN
+F 1 "100nF" H 7360 8965 59  0000 L BNN
+F 2 "pc_sensything_v1.6:C0805" H 7300 9150 50  0001 C CNN
+F 3 "" H 7300 9150 50  0001 C CNN
+	1    7300 9150
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:C-EUC0805 C10
+U 1 1 CB1F8FE5
+P 7550 9850
+AR Path="/CB1F8FE5" Ref="C10"  Part="1" 
+AR Path="/5F6237C9/CB1F8FE5" Ref="C10"  Part="1" 
+F 0 "C10" H 7610 9865 59  0000 L BNN
+F 1 "100nF" H 7610 9665 59  0000 L BNN
+F 2 "pc_sensything_v1.6:C0805" H 7550 9850 50  0001 C CNN
+F 3 "" H 7550 9850 50  0001 C CNN
+	1    7550 9850
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND19
+U 1 1 F278BC0E
+P 7300 9950
+AR Path="/F278BC0E" Ref="#GND19"  Part="1" 
+AR Path="/5F6237C9/F278BC0E" Ref="#GND019"  Part="1" 
+F 0 "#GND019" H 7300 9950 50  0001 C CNN
+F 1 "GND" H 7200 9850 59  0000 L BNN
+F 2 "" H 7300 9950 50  0001 C CNN
+F 3 "" H 7300 9950 50  0001 C CNN
+	1    7300 9950
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND20
+U 1 1 E53A484A
+P 6750 10450
+AR Path="/E53A484A" Ref="#GND20"  Part="1" 
+AR Path="/5F6237C9/E53A484A" Ref="#GND020"  Part="1" 
+F 0 "#GND020" H 6750 10450 50  0001 C CNN
+F 1 "GND" H 6650 10350 59  0000 L BNN
+F 2 "" H 6750 10450 50  0001 C CNN
+F 3 "" H 6750 10450 50  0001 C CNN
+	1    6750 10450
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:+5V #P+5
+U 1 1 57F4DC09
+P 7550 9550
+AR Path="/57F4DC09" Ref="#P+5"  Part="1" 
+AR Path="/5F6237C9/57F4DC09" Ref="#P+05"  Part="1" 
+F 0 "#P+05" H 7550 9550 50  0001 C CNN
+F 1 "+5V" V 7450 9350 59  0000 L BNN
+F 2 "" H 7550 9550 50  0001 C CNN
+F 3 "" H 7550 9550 50  0001 C CNN
+	1    7550 9550
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND61
+U 1 1 4ECAD228
+P 4900 10200
+AR Path="/4ECAD228" Ref="#GND61"  Part="1" 
+AR Path="/5F6237C9/4ECAD228" Ref="#GND061"  Part="1" 
+F 0 "#GND061" H 4900 10200 50  0001 C CNN
+F 1 "GND" H 4800 10100 59  0000 L BNN
+F 2 "" H 4900 10200 50  0001 C CNN
+F 3 "" H 4900 10200 50  0001 C CNN
+	1    4900 10200
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:3.3V #SUPPLY8
+U 1 1 39566F8A
+P 2250 6550
+AR Path="/39566F8A" Ref="#SUPPLY8"  Part="1" 
+AR Path="/5F6237C9/39566F8A" Ref="#SUPPLY08"  Part="1" 
+F 0 "#SUPPLY08" H 2250 6550 50  0001 C CNN
+F 1 "3.3V" V 2290 6750 59  0000 C BNN
+F 2 "" H 2250 6550 50  0001 C CNN
+F 3 "" H 2250 6550 50  0001 C CNN
+	1    2250 6550
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:QWIIC_CONNECTORJS-1MM J4
+U 1 1 23A911B1
+P 2650 6850
+AR Path="/23A911B1" Ref="J4"  Part="1" 
+AR Path="/5F6237C9/23A911B1" Ref="J4"  Part="1" 
+F 0 "J4" H 2450 7160 70  0000 L BNN
+F 1 "Qwiic2" V 2400 7300 70  0000 R BNN
+F 2 "pc_sensything_v1.6:1X04_1MM_RA" H 2650 6850 50  0001 C CNN
+F 3 "" H 2650 6850 50  0001 C CNN
+	1    2650 6850
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND8
+U 1 1 E3161DBF
+P 2250 7150
+AR Path="/E3161DBF" Ref="#GND8"  Part="1" 
+AR Path="/5F6237C9/E3161DBF" Ref="#GND08"  Part="1" 
+F 0 "#GND08" H 2250 7150 50  0001 C CNN
+F 1 "GND" H 2150 7050 59  0000 L BNN
+F 2 "" H 2250 7150 50  0001 C CNN
+F 3 "" H 2250 7150 50  0001 C CNN
+	1    2250 7150
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:3.3V #SUPPLY7
+U 1 1 2907E397
+P 7300 8850
+AR Path="/2907E397" Ref="#SUPPLY7"  Part="1" 
+AR Path="/5F6237C9/2907E397" Ref="#SUPPLY07"  Part="1" 
+F 0 "#SUPPLY07" H 7300 8850 50  0001 C CNN
+F 1 "3.3V" H 7300 8960 59  0000 C BNN
+F 2 "" H 7300 8850 50  0001 C CNN
+F 3 "" H 7300 8850 50  0001 C CNN
+	1    7300 8850
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:SWITCH_TACT_SMT4.6X2.8 SW2
+U 1 1 544156B7
+P 10600 7700
+AR Path="/544156B7" Ref="SW2"  Part="1" 
+AR Path="/5F6237C9/544156B7" Ref="SW2"  Part="1" 
+F 0 "SW2" H 10500 7950 42  0000 L BNN
+F 1 "KMR2" H 10500 7500 42  0000 L BNN
+F 2 "pc_sensything_v1.6:BTN_KMR2_4.6X2.8" H 10600 7700 50  0001 C CNN
+F 3 "" H 10600 7700 50  0001 C CNN
+	1    10600 7700
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:3.3V #SUPPLY11
+U 1 1 E0B04C0E
+P 2050 6000
+AR Path="/E0B04C0E" Ref="#SUPPLY11"  Part="1" 
+AR Path="/5F6237C9/E0B04C0E" Ref="#SUPPLY011"  Part="1" 
+F 0 "#SUPPLY011" H 2050 6000 50  0001 C CNN
+F 1 "3.3V" H 2050 6110 59  0000 C BNN
+F 2 "" H 2050 6000 50  0001 C CNN
+F 3 "" H 2050 6000 50  0001 C CNN
+	1    2050 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:R-US_R0402 R3
+U 1 1 2A684572
+P 1850 6450
+AR Path="/2A684572" Ref="R3"  Part="1" 
+AR Path="/5F6237C9/2A684572" Ref="R3"  Part="1" 
+F 0 "R3" H 1700 6509 59  0000 L BNN
+F 1 "10K" H 1850 6520 59  0000 L BNN
+F 2 "pc_sensything_v1.6:R0402" H 1850 6450 50  0001 C CNN
+F 3 "" H 1850 6450 50  0001 C CNN
+	1    1850 6450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:R-US_R0402 R4
+U 1 1 30FCCEAE
+P 2050 6400
+AR Path="/30FCCEAE" Ref="R4"  Part="1" 
+AR Path="/5F6237C9/30FCCEAE" Ref="R4"  Part="1" 
+F 0 "R4" H 1850 6459 59  0000 L BNN
+F 1 "10K" H 2000 6470 59  0000 L BNN
+F 2 "pc_sensything_v1.6:R0402" H 2050 6400 50  0001 C CNN
+F 3 "" H 2050 6400 50  0001 C CNN
+	1    2050 6400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND4
+U 1 1 12C122FD
+P 10200 8150
+AR Path="/12C122FD" Ref="#GND4"  Part="1" 
+AR Path="/5F6237C9/12C122FD" Ref="#GND04"  Part="1" 
+F 0 "#GND04" H 10200 8150 50  0001 C CNN
+F 1 "GND" H 10100 8050 59  0000 L BNN
+F 2 "" H 10200 8150 50  0001 C CNN
+F 3 "" H 10200 8150 50  0001 C CNN
+	1    10200 8150
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:R-US_R0402 R19
+U 1 1 F581E55B
+P 10950 7500
+AR Path="/F581E55B" Ref="R19"  Part="1" 
+AR Path="/5F6237C9/F581E55B" Ref="R19"  Part="1" 
+F 0 "R19" H 10800 7559 59  0000 L BNN
+F 1 "10K" H 10800 7370 59  0000 L BNN
+F 2 "pc_sensything_v1.6:R0402" H 10950 7500 50  0001 C CNN
+F 3 "" H 10950 7500 50  0001 C CNN
+	1    10950 7500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:3.3V #SUPPLY20
+U 1 1 74256EE2
+P 10950 7200
+AR Path="/74256EE2" Ref="#SUPPLY20"  Part="1" 
+AR Path="/5F6237C9/74256EE2" Ref="#SUPPLY020"  Part="1" 
+F 0 "#SUPPLY020" H 10950 7200 50  0001 C CNN
+F 1 "3.3V" H 10950 7310 59  0000 C BNN
+F 2 "" H 10950 7200 50  0001 C CNN
+F 3 "" H 10950 7200 50  0001 C CNN
+	1    10950 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:0.1UF-0402-16V-10% C2
+U 1 1 C8DDE19D
+P 8250 1500
+AR Path="/C8DDE19D" Ref="C2"  Part="1" 
+AR Path="/5F6237C9/C8DDE19D" Ref="C2"  Part="1" 
+F 0 "C2" H 8310 1615 70  0000 L BNN
+F 1 "0.1uF" H 8310 1415 70  0000 L BNN
+F 2 "pc_sensything_v1.6:0402" H 8250 1500 50  0001 C CNN
+F 3 "" H 8250 1500 50  0001 C CNN
+	1    8250 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:3.3V #SUPPLY10
+U 1 1 28999800
+P 8250 1200
+AR Path="/28999800" Ref="#SUPPLY10"  Part="1" 
+AR Path="/5F6237C9/28999800" Ref="#SUPPLY010"  Part="1" 
+F 0 "#SUPPLY010" H 8250 1200 50  0001 C CNN
+F 1 "3.3V" H 8250 1310 59  0000 C BNN
+F 2 "" H 8250 1200 50  0001 C CNN
+F 3 "" H 8250 1200 50  0001 C CNN
+	1    8250 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND5
+U 1 1 5B6A58CA
+P 8250 1900
+AR Path="/5B6A58CA" Ref="#GND5"  Part="1" 
+AR Path="/5F6237C9/5B6A58CA" Ref="#GND05"  Part="1" 
+F 0 "#GND05" H 8250 1900 50  0001 C CNN
+F 1 "GND" H 8150 1800 59  0000 L BNN
+F 2 "" H 8250 1900 50  0001 C CNN
+F 3 "" H 8250 1900 50  0001 C CNN
+	1    8250 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:0.1UF-0402-16V-10% C6
+U 1 1 8451312A
+P 9450 1500
+AR Path="/8451312A" Ref="C6"  Part="1" 
+AR Path="/5F6237C9/8451312A" Ref="C6"  Part="1" 
+F 0 "C6" H 9510 1615 70  0000 L BNN
+F 1 "0.1uF" H 9510 1415 70  0000 L BNN
+F 2 "pc_sensything_v1.6:0402" H 9450 1500 50  0001 C CNN
+F 3 "" H 9450 1500 50  0001 C CNN
+	1    9450 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:3.3V #SUPPLY22
+U 1 1 15C4ECC7
+P 9450 1200
+AR Path="/15C4ECC7" Ref="#SUPPLY22"  Part="1" 
+AR Path="/5F6237C9/15C4ECC7" Ref="#SUPPLY022"  Part="1" 
+F 0 "#SUPPLY022" H 9450 1200 50  0001 C CNN
+F 1 "3.3V" H 9450 1310 59  0000 C BNN
+F 2 "" H 9450 1200 50  0001 C CNN
+F 3 "" H 9450 1200 50  0001 C CNN
+	1    9450 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND7
+U 1 1 C2693486
+P 9450 1900
+AR Path="/C2693486" Ref="#GND7"  Part="1" 
+AR Path="/5F6237C9/C2693486" Ref="#GND07"  Part="1" 
+F 0 "#GND07" H 9450 1900 50  0001 C CNN
+F 1 "GND" H 9350 1800 59  0000 L BNN
+F 2 "" H 9450 1900 50  0001 C CNN
+F 3 "" H 9450 1900 50  0001 C CNN
+	1    9450 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:0.1UF-0402-16V-10% C7
+U 1 1 C15D389E
+P 9850 1500
+AR Path="/C15D389E" Ref="C7"  Part="1" 
+AR Path="/5F6237C9/C15D389E" Ref="C7"  Part="1" 
+F 0 "C7" H 9910 1615 70  0000 L BNN
+F 1 "0.1uF" H 9910 1415 70  0000 L BNN
+F 2 "pc_sensything_v1.6:0402" H 9850 1500 50  0001 C CNN
+F 3 "" H 9850 1500 50  0001 C CNN
+	1    9850 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:3.3V #SUPPLY23
+U 1 1 F460BE83
+P 9850 1200
+AR Path="/F460BE83" Ref="#SUPPLY23"  Part="1" 
+AR Path="/5F6237C9/F460BE83" Ref="#SUPPLY023"  Part="1" 
+F 0 "#SUPPLY023" H 9850 1200 50  0001 C CNN
+F 1 "3.3V" H 9850 1310 59  0000 C BNN
+F 2 "" H 9850 1200 50  0001 C CNN
+F 3 "" H 9850 1200 50  0001 C CNN
+	1    9850 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND13
+U 1 1 85B66688
+P 9850 1900
+AR Path="/85B66688" Ref="#GND13"  Part="1" 
+AR Path="/5F6237C9/85B66688" Ref="#GND013"  Part="1" 
+F 0 "#GND013" H 9850 1900 50  0001 C CNN
+F 1 "GND" H 9750 1800 59  0000 L BNN
+F 2 "" H 9850 1900 50  0001 C CNN
+F 3 "" H 9850 1900 50  0001 C CNN
+	1    9850 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:0.1UF-0402-16V-10% C8
+U 1 1 A7E76009
+P 9100 4500
+AR Path="/A7E76009" Ref="C8"  Part="1" 
+AR Path="/5F6237C9/A7E76009" Ref="C8"  Part="1" 
+F 0 "C8" H 9160 4615 70  0000 L BNN
+F 1 "0.1uF" H 9160 4415 70  0000 L BNN
+F 2 "pc_sensything_v1.6:0402" H 9100 4500 50  0001 C CNN
+F 3 "" H 9100 4500 50  0001 C CNN
+	1    9100 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND14
+U 1 1 B9C9B342
+P 9100 4900
+AR Path="/B9C9B342" Ref="#GND14"  Part="1" 
+AR Path="/5F6237C9/B9C9B342" Ref="#GND014"  Part="1" 
+F 0 "#GND014" H 9100 4900 50  0001 C CNN
+F 1 "GND" H 9000 4800 59  0000 L BNN
+F 2 "" H 9100 4900 50  0001 C CNN
+F 3 "" H 9100 4900 50  0001 C CNN
+	1    9100 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:10UF-0603-6.3V-20% C13
+U 1 1 222DAB49
+P 4050 1400
+AR Path="/222DAB49" Ref="C13"  Part="1" 
+AR Path="/5F6237C9/222DAB49" Ref="C13"  Part="1" 
+F 0 "C13" H 4110 1515 70  0000 L BNN
+F 1 "10uF" H 4110 1315 70  0000 L BNN
+F 2 "pc_sensything_v1.6:0603" H 4050 1400 50  0001 C CNN
+F 3 "" H 4050 1400 50  0001 C CNN
+	1    4050 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:3.3V #SUPPLY26
+U 1 1 CB2EE093
+P 4050 1100
+AR Path="/CB2EE093" Ref="#SUPPLY26"  Part="1" 
+AR Path="/5F6237C9/CB2EE093" Ref="#SUPPLY026"  Part="1" 
+F 0 "#SUPPLY026" H 4050 1100 50  0001 C CNN
+F 1 "3.3V" H 4050 1210 59  0000 C BNN
+F 2 "" H 4050 1100 50  0001 C CNN
+F 3 "" H 4050 1100 50  0001 C CNN
+	1    4050 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND17
+U 1 1 CBB20165
+P 4050 1700
+AR Path="/CBB20165" Ref="#GND17"  Part="1" 
+AR Path="/5F6237C9/CBB20165" Ref="#GND017"  Part="1" 
+F 0 "#GND017" H 4050 1700 50  0001 C CNN
+F 1 "GND" H 3950 1600 59  0000 L BNN
+F 2 "" H 4050 1700 50  0001 C CNN
+F 3 "" H 4050 1700 50  0001 C CNN
+	1    4050 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:QWIIC_CONNECTORJS-1MM J1
+U 1 1 0B76DEE0
+P 2650 7750
+AR Path="/0B76DEE0" Ref="J1"  Part="1" 
+AR Path="/5F6237C9/0B76DEE0" Ref="J1"  Part="1" 
+F 0 "J1" H 2450 8060 70  0000 L BNN
+F 1 "Qwiic1" V 2400 8200 70  0000 R BNN
+F 2 "pc_sensything_v1.6:1X04_1MM_RA" H 2650 7750 50  0001 C CNN
+F 3 "" H 2650 7750 50  0001 C CNN
+	1    2650 7750
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND1
+U 1 1 8DA2BB24
+P 2050 8150
+AR Path="/8DA2BB24" Ref="#GND1"  Part="1" 
+AR Path="/5F6237C9/8DA2BB24" Ref="#GND01"  Part="1" 
+F 0 "#GND01" H 2050 8150 50  0001 C CNN
+F 1 "GND" H 1950 8050 59  0000 L BNN
+F 2 "" H 2050 8150 50  0001 C CNN
+F 3 "" H 2050 8150 50  0001 C CNN
+	1    2050 8150
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:3.3V #SUPPLY3
+U 1 1 4F8E092B
+P 2050 7450
+AR Path="/4F8E092B" Ref="#SUPPLY3"  Part="1" 
+AR Path="/5F6237C9/4F8E092B" Ref="#SUPPLY03"  Part="1" 
+F 0 "#SUPPLY03" H 2050 7450 50  0001 C CNN
+F 1 "3.3V" V 2140 7550 59  0000 C BNN
+F 2 "" H 2050 7450 50  0001 C CNN
+F 3 "" H 2050 7450 50  0001 C CNN
+	1    2050 7450
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:R-US_R0402 R5
+U 1 1 40871C63
+P 1950 7200
+AR Path="/40871C63" Ref="R5"  Part="1" 
+AR Path="/5F6237C9/40871C63" Ref="R5"  Part="1" 
+F 0 "R5" H 1800 7259 59  0000 L BNN
+F 1 "10K" H 1950 7270 59  0000 L BNN
+F 2 "pc_sensything_v1.6:R0402" H 1950 7200 50  0001 C CNN
+F 3 "" H 1950 7200 50  0001 C CNN
+	1    1950 7200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:R-US_R0402 R18
+U 1 1 BCED19F0
+P 1750 7200
+AR Path="/BCED19F0" Ref="R18"  Part="1" 
+AR Path="/5F6237C9/BCED19F0" Ref="R18"  Part="1" 
+F 0 "R18" H 1550 7259 59  0000 L BNN
+F 1 "10K" H 1750 7270 59  0000 L BNN
+F 2 "pc_sensything_v1.6:R0402" H 1750 7200 50  0001 C CNN
+F 3 "" H 1750 7200 50  0001 C CNN
+	1    1750 7200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:3.3V #SUPPLY19
+U 1 1 9765D681
+P 1750 6900
+AR Path="/9765D681" Ref="#SUPPLY19"  Part="1" 
+AR Path="/5F6237C9/9765D681" Ref="#SUPPLY019"  Part="1" 
+F 0 "#SUPPLY019" H 1750 6900 50  0001 C CNN
+F 1 "3.3V" H 1900 6910 59  0000 C BNN
+F 2 "" H 1750 6900 50  0001 C CNN
+F 3 "" H 1750 6900 50  0001 C CNN
+	1    1750 6900
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND6
+U 1 1 F6847280
+P 3800 4550
+AR Path="/F6847280" Ref="#GND6"  Part="1" 
+AR Path="/5F6237C9/F6847280" Ref="#GND06"  Part="1" 
+F 0 "#GND06" H 3800 4550 50  0001 C CNN
+F 1 "GND" H 3700 4450 59  0000 L BNN
+F 2 "" H 3800 4550 50  0001 C CNN
+F 3 "" H 3800 4550 50  0001 C CNN
+	1    3800 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:MA05-1 SV4
+U 1 1 52E1D252
+P 11300 3350
+AR Path="/52E1D252" Ref="SV4"  Part="1" 
+AR Path="/5F6237C9/52E1D252" Ref="SV4"  Part="1" 
+F 0 "SV4" H 11250 3680 59  0000 L BNN
+F 1 "MA05-1" H 11250 2950 59  0000 L BNN
+F 2 "pc_sensything_v1.6:MA05-1" H 11300 3350 50  0001 C CNN
+F 3 "" H 11300 3350 50  0001 C CNN
+	1    11300 3350
+	-1   0    0    1   
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND12
+U 1 1 8C4C494A
+P 10750 3850
+AR Path="/8C4C494A" Ref="#GND12"  Part="1" 
+AR Path="/5F6237C9/8C4C494A" Ref="#GND012"  Part="1" 
+F 0 "#GND012" H 10750 3850 50  0001 C CNN
+F 1 "GND" H 10650 3750 59  0000 L BNN
+F 2 "" H 10750 3850 50  0001 C CNN
+F 3 "" H 10750 3850 50  0001 C CNN
+	1    10750 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND16
+U 1 1 12C6E2A1
+P 6950 10250
+AR Path="/12C6E2A1" Ref="#GND16"  Part="1" 
+AR Path="/5F6237C9/12C6E2A1" Ref="#GND016"  Part="1" 
+F 0 "#GND016" H 6950 10250 50  0001 C CNN
+F 1 "GND" H 6850 10150 59  0000 L BNN
+F 2 "" H 6950 10250 50  0001 C CNN
+F 3 "" H 6950 10250 50  0001 C CNN
+	1    6950 10250
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND18
+U 1 1 195191A6
+P 7550 10250
+AR Path="/195191A6" Ref="#GND18"  Part="1" 
+AR Path="/5F6237C9/195191A6" Ref="#GND018"  Part="1" 
+F 0 "#GND018" H 7550 10250 50  0001 C CNN
+F 1 "GND" H 7450 10150 59  0000 L BNN
+F 2 "" H 7550 10250 50  0001 C CNN
+F 3 "" H 7550 10250 50  0001 C CNN
+	1    7550 10250
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:WS2812B5050 LED1
+U 1 1 7DC8C285
+P 7550 7700
+AR Path="/7DC8C285" Ref="LED1"  Part="1" 
+AR Path="/5F6237C9/7DC8C285" Ref="LED1"  Part="1" 
+F 0 "LED1" H 7550 7700 50  0001 C CNN
+F 1 "WS2812B5050" H 7550 7700 50  0001 C CNN
+F 2 "pc_sensything_v1.6:WS2812B" H 7550 7700 50  0001 C CNN
+F 3 "" H 7550 7700 50  0001 C CNN
+	1    7550 7700
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND21
+U 1 1 FF2A2D77
+P 7550 8300
+AR Path="/FF2A2D77" Ref="#GND21"  Part="1" 
+AR Path="/5F6237C9/FF2A2D77" Ref="#GND021"  Part="1" 
+F 0 "#GND021" H 7550 8300 50  0001 C CNN
+F 1 "GND" H 7450 8200 59  0000 L BNN
+F 2 "" H 7550 8300 50  0001 C CNN
+F 3 "" H 7550 8300 50  0001 C CNN
+	1    7550 8300
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:3.3V #SUPPLY5
+U 1 1 20B1DDDE
+P 7750 6900
+AR Path="/20B1DDDE" Ref="#SUPPLY5"  Part="1" 
+AR Path="/5F6237C9/20B1DDDE" Ref="#SUPPLY05"  Part="1" 
+F 0 "#SUPPLY05" H 7750 6900 50  0001 C CNN
+F 1 "3.3V" H 7750 7010 59  0000 C BNN
+F 2 "" H 7750 6900 50  0001 C CNN
+F 3 "" H 7750 6900 50  0001 C CNN
+	1    7750 6900
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:10KOHM-1_10W-1%(0603)0603 R6
+U 1 1 1047F363
+P 6750 7800
+AR Path="/1047F363" Ref="R6"  Part="1" 
+AR Path="/5F6237C9/1047F363" Ref="R6"  Part="1" 
+F 0 "R6" H 6750 7860 70  0000 C BNN
+F 1 "10k" H 6750 7740 70  0000 C TNN
+F 2 "pc_sensything_v1.6:0603" H 6750 7800 50  0001 C CNN
+F 3 "" H 6750 7800 50  0001 C CNN
+	1    6750 7800
+	-1   0    0    1   
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:0.1UF-0603-25V-(+80_-20%) C20
+U 1 1 74A5ABB7
+P 8150 7200
+AR Path="/74A5ABB7" Ref="C20"  Part="1" 
+AR Path="/5F6237C9/74A5ABB7" Ref="C20"  Part="1" 
+F 0 "C20" H 8210 7315 70  0000 L BNN
+F 1 "0.1uF" H 8210 7115 70  0000 L BNN
+F 2 "pc_sensything_v1.6:0603" H 8150 7200 50  0001 C CNN
+F 3 "" H 8150 7200 50  0001 C CNN
+	1    8150 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND26
+U 1 1 3890F70B
+P 8150 7500
+AR Path="/3890F70B" Ref="#GND26"  Part="1" 
+AR Path="/5F6237C9/3890F70B" Ref="#GND026"  Part="1" 
+F 0 "#GND026" H 8150 7500 50  0001 C CNN
+F 1 "GND" H 8050 7400 59  0000 L BNN
+F 2 "" H 8150 7500 50  0001 C CNN
+F 3 "" H 8150 7500 50  0001 C CNN
+	1    8150 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:SENSYTHING_CON U$3
+U 1 1 6E1B97F5
+P 9300 9700
+AR Path="/6E1B97F5" Ref="U$3"  Part="1" 
+AR Path="/5F6237C9/6E1B97F5" Ref="U$3"  Part="1" 
+F 0 "U$3" H 9300 9700 50  0001 C CNN
+F 1 "SENSYTHING_CON" H 9300 9700 50  0001 C CNN
+F 2 "pc_sensything_v1.6:SENSYTHING_CON" H 9300 9700 50  0001 C CNN
+F 3 "" H 9300 9700 50  0001 C CNN
+	1    9300 9700
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:SENSYTHING_CON U$7
+U 1 1 63C62AE7
+P 9500 9700
+AR Path="/63C62AE7" Ref="U$7"  Part="1" 
+AR Path="/5F6237C9/63C62AE7" Ref="U$7"  Part="1" 
+F 0 "U$7" H 9500 9700 50  0001 C CNN
+F 1 "SENSYTHING_CON" H 9500 9700 50  0001 C CNN
+F 2 "pc_sensything_v1.6:SENSYTHING_CON" H 9500 9700 50  0001 C CNN
+F 3 "" H 9500 9700 50  0001 C CNN
+	1    9500 9700
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:SENSYTHING_CON U$8
+U 1 1 59F585D1
+P 9700 9700
+AR Path="/59F585D1" Ref="U$8"  Part="1" 
+AR Path="/5F6237C9/59F585D1" Ref="U$8"  Part="1" 
+F 0 "U$8" H 9700 9700 50  0001 C CNN
+F 1 "SENSYTHING_CON" H 9700 9700 50  0001 C CNN
+F 2 "pc_sensything_v1.6:SENSYTHING_CON" H 9700 9700 50  0001 C CNN
+F 3 "" H 9700 9700 50  0001 C CNN
+	1    9700 9700
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:SENSYTHING_CON U$11
+U 1 1 ABBF7E6D
+P 9900 9700
+AR Path="/ABBF7E6D" Ref="U$11"  Part="1" 
+AR Path="/5F6237C9/ABBF7E6D" Ref="U$11"  Part="1" 
+F 0 "U$11" H 9900 9700 50  0001 C CNN
+F 1 "SENSYTHING_CON" H 9900 9700 50  0001 C CNN
+F 2 "pc_sensything_v1.6:SENSYTHING_CON" H 9900 9700 50  0001 C CNN
+F 3 "" H 9900 9700 50  0001 C CNN
+	1    9900 9700
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:SENSYTHING_CON U$12
+U 1 1 FCFA34DC
+P 8800 9000
+AR Path="/FCFA34DC" Ref="U$12"  Part="1" 
+AR Path="/5F6237C9/FCFA34DC" Ref="U$12"  Part="1" 
+F 0 "U$12" H 8800 9000 50  0001 C CNN
+F 1 "SENSYTHING_CON" H 8800 9000 50  0001 C CNN
+F 2 "pc_sensything_v1.6:SENSYTHING_CON" H 8800 9000 50  0001 C CNN
+F 3 "" H 8800 9000 50  0001 C CNN
+	1    8800 9000
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:SENSYTHING_CON U$14
+U 1 1 0B5D2212
+P 9100 9000
+AR Path="/0B5D2212" Ref="U$14"  Part="1" 
+AR Path="/5F6237C9/0B5D2212" Ref="U$14"  Part="1" 
+F 0 "U$14" H 9100 9000 50  0001 C CNN
+F 1 "SENSYTHING_CON" H 9100 9000 50  0001 C CNN
+F 2 "pc_sensything_v1.6:SENSYTHING_CON" H 9100 9000 50  0001 C CNN
+F 3 "" H 9100 9000 50  0001 C CNN
+	1    9100 9000
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:PTR1PAD1-13 TP58
+U 1 1 DA77EF09
+P 11000 10100
+AR Path="/DA77EF09" Ref="TP58"  Part="1" 
+AR Path="/5F6237C9/DA77EF09" Ref="TP58"  Part="1" 
+F 0 "TP58" V 10960 9850 59  0000 L BNN
+F 1 "PTR1PAD1-13" H 11000 10100 50  0001 C CNN
+F 2 "pc_sensything_v1.6:P1-13" H 11000 10100 50  0001 C CNN
+F 3 "" H 11000 10100 50  0001 C CNN
+	1    11000 10100
+	-1   0    0    1   
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:PTR1PAD1-13 TP65
+U 1 1 31FC6F3D
+P 10800 10100
+AR Path="/31FC6F3D" Ref="TP65"  Part="1" 
+AR Path="/5F6237C9/31FC6F3D" Ref="TP65"  Part="1" 
+F 0 "TP65" V 10760 9850 59  0000 L BNN
+F 1 "PTR1PAD1-13" H 10800 10100 50  0001 C CNN
+F 2 "pc_sensything_v1.6:P1-13" H 10800 10100 50  0001 C CNN
+F 3 "" H 10800 10100 50  0001 C CNN
+	1    10800 10100
+	-1   0    0    1   
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:3.3V #SUPPLY4
+U 1 1 1C9152C2
+P 9600 8800
+AR Path="/1C9152C2" Ref="#SUPPLY4"  Part="1" 
+AR Path="/5F6237C9/1C9152C2" Ref="#SUPPLY04"  Part="1" 
+F 0 "#SUPPLY04" H 9600 8800 50  0001 C CNN
+F 1 "3.3V" H 9600 8910 59  0000 C BNN
+F 2 "" H 9600 8800 50  0001 C CNN
+F 3 "" H 9600 8800 50  0001 C CNN
+	1    9600 8800
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND27
+U 1 1 F8638A93
+P 8800 9500
+AR Path="/F8638A93" Ref="#GND27"  Part="1" 
+AR Path="/5F6237C9/F8638A93" Ref="#GND027"  Part="1" 
+F 0 "#GND027" H 8800 9500 50  0001 C CNN
+F 1 "GND" H 8700 9400 59  0000 L BNN
+F 2 "" H 8800 9500 50  0001 C CNN
+F 3 "" H 8800 9500 50  0001 C CNN
+	1    8800 9500
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:MA05-1 SV2
+U 1 1 3E7D897A
+P 3400 3900
+AR Path="/3E7D897A" Ref="SV2"  Part="1" 
+AR Path="/5F6237C9/3E7D897A" Ref="SV2"  Part="1" 
+F 0 "SV2" H 3350 4230 59  0000 L BNN
+F 1 "MA05-1" H 3350 3500 59  0000 L BNN
+F 2 "pc_sensything_v1.6:MA05-1" H 3400 3900 50  0001 C CNN
+F 3 "" H 3400 3900 50  0001 C CNN
+	1    3400 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:3.3V #SUPPLY6
+U 1 1 A7CD5EB6
+P 3850 3500
+AR Path="/A7CD5EB6" Ref="#SUPPLY6"  Part="1" 
+AR Path="/5F6237C9/A7CD5EB6" Ref="#SUPPLY06"  Part="1" 
+F 0 "#SUPPLY06" H 3850 3500 50  0001 C CNN
+F 1 "3.3V" V 3860 3610 59  0000 L BNN
+F 2 "" H 3850 3500 50  0001 C CNN
+F 3 "" H 3850 3500 50  0001 C CNN
+	1    3850 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:+5V #P+4
+U 1 1 459FCD94
+P 3950 3400
+AR Path="/459FCD94" Ref="#P+4"  Part="1" 
+AR Path="/5F6237C9/459FCD94" Ref="#P+04"  Part="1" 
+F 0 "#P+04" H 3950 3400 50  0001 C CNN
+F 1 "+5V" V 4000 3400 59  0000 L BNN
+F 2 "" H 3950 3400 50  0001 C CNN
+F 3 "" H 3950 3400 50  0001 C CNN
+	1    3950 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:MOSFET-PCHANNELDMG2307L Q3
+U 1 1 206ACD4E
+P 4650 6850
+AR Path="/206ACD4E" Ref="Q3"  Part="1" 
+AR Path="/5F6237C9/206ACD4E" Ref="Q3"  Part="1" 
+F 0 "Q3" H 4550 6700 59  0000 R TNN
+F 1 "2.5A/30V" H 4600 7050 59  0000 R TNN
+F 2 "pc_sensything_v1.6:SOT23-3" H 4650 6850 50  0001 C CNN
+F 3 "" H 4650 6850 50  0001 C CNN
+	1    4650 6850
+	1    0    0    1   
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:VBAT #U$18
+U 1 1 5210CFB4
+P 4650 6400
+AR Path="/5210CFB4" Ref="#U$18"  Part="1" 
+AR Path="/5F6237C9/5210CFB4" Ref="#U$018"  Part="1" 
+F 0 "#U$018" H 4650 6400 50  0001 C CNN
+F 1 "VBAT" H 4650 6600 59  0000 L BNN
+F 2 "" H 4650 6400 50  0001 C CNN
+F 3 "" H 4650 6400 50  0001 C CNN
+	1    4650 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:0.1UF-0402-16V-10% C5
+U 1 1 2BF069D8
+P 4300 7950
+AR Path="/2BF069D8" Ref="C5"  Part="1" 
+AR Path="/5F6237C9/2BF069D8" Ref="C5"  Part="1" 
+F 0 "C5" H 4360 8065 70  0000 L BNN
+F 1 "0.1uF" H 4360 7865 70  0000 L BNN
+F 2 "pc_sensything_v1.6:0402" H 4300 7950 50  0001 C CNN
+F 3 "" H 4300 7950 50  0001 C CNN
+	1    4300 7950
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND23
+U 1 1 D027D65F
+P 4300 8250
+AR Path="/D027D65F" Ref="#GND23"  Part="1" 
+AR Path="/5F6237C9/D027D65F" Ref="#GND023"  Part="1" 
+F 0 "#GND023" H 4300 8250 50  0001 C CNN
+F 1 "GND" H 4200 8150 59  0000 L BNN
+F 2 "" H 4300 8250 50  0001 C CNN
+F 3 "" H 4300 8250 50  0001 C CNN
+	1    4300 8250
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:10KOHM-1_10W-1%(0603)0603 R27
+U 1 1 B29545FB
+P 5000 6800
+AR Path="/B29545FB" Ref="R27"  Part="1" 
+AR Path="/5F6237C9/B29545FB" Ref="R27"  Part="1" 
+F 0 "R27" H 5000 6860 70  0000 C BNN
+F 1 "DNP" H 5000 6740 70  0000 C TNN
+F 2 "pc_sensything_v1.6:0603" H 5000 6800 50  0001 C CNN
+F 3 "" H 5000 6800 50  0001 C CNN
+	1    5000 6800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:R-US_R0402 R28
+U 1 1 4E23EAD0
+P 7500 5100
+AR Path="/4E23EAD0" Ref="R28"  Part="1" 
+AR Path="/5F6237C9/4E23EAD0" Ref="R28"  Part="1" 
+F 0 "R28" H 7350 5159 59  0000 L BNN
+F 1 "DNP" H 7350 4970 59  0000 L BNN
+F 2 "pc_sensything_v1.6:R0402" H 7500 5100 50  0001 C CNN
+F 3 "" H 7500 5100 50  0001 C CNN
+	1    7500 5100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:SD_CARD_ADAPTER U$20
+U 1 1 A9A82E2E
+P 15150 8100
+AR Path="/A9A82E2E" Ref="U$20"  Part="1" 
+AR Path="/5F6237C9/A9A82E2E" Ref="U$20"  Part="1" 
+F 0 "U$20" H 14650 8800 42  0000 L BNN
+F 1 "SD_CARD_ADAPTER" H 15050 7300 47  0000 L BNN
+F 2 "pc_sensything_v1.6:SD-105162" H 15150 8100 50  0001 C CNN
+F 3 "" H 15150 8100 50  0001 C CNN
+	1    15150 8100
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND28
+U 1 1 D1DF28FE
+P 13400 9000
+AR Path="/D1DF28FE" Ref="#GND28"  Part="1" 
+AR Path="/5F6237C9/D1DF28FE" Ref="#GND028"  Part="1" 
+F 0 "#GND028" H 13400 9000 50  0001 C CNN
+F 1 "GND" H 13300 8900 59  0000 L BNN
+F 2 "" H 13400 9000 50  0001 C CNN
+F 3 "" H 13400 9000 50  0001 C CNN
+	1    13400 9000
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:GND #GND29
+U 1 1 B0E7A0AF
+P 12800 8500
+AR Path="/B0E7A0AF" Ref="#GND29"  Part="1" 
+AR Path="/5F6237C9/B0E7A0AF" Ref="#GND029"  Part="1" 
+F 0 "#GND029" H 12800 8500 50  0001 C CNN
+F 1 "GND" H 12700 8400 59  0000 L BNN
+F 2 "" H 12800 8500 50  0001 C CNN
+F 3 "" H 12800 8500 50  0001 C CNN
+	1    12800 8500
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:C-EUC0402 C12
+U 1 1 E4AAF141
+P 12800 7900
+AR Path="/E4AAF141" Ref="C12"  Part="1" 
+AR Path="/5F6237C9/E4AAF141" Ref="C12"  Part="1" 
+F 0 "C12" H 12860 7915 59  0000 L BNN
+F 1 "100nF" H 12860 7715 59  0000 L BNN
+F 2 "pc_sensything_v1.6:C0402" H 12800 7900 50  0001 C CNN
+F 3 "" H 12800 7900 50  0001 C CNN
+	1    12800 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:PROTY-LOGO U$19
+U 1 1 1DEA58DA
+P 12350 10400
+AR Path="/1DEA58DA" Ref="U$19"  Part="1" 
+AR Path="/5F6237C9/1DEA58DA" Ref="U$19"  Part="1" 
+F 0 "U$19" H 12350 10400 50  0001 C CNN
+F 1 "PROTY-LOGO" H 12350 10400 50  0001 C CNN
+F 2 "pc_sensything_v1.6:LOGO-PROTY" H 12350 10400 50  0001 C CNN
+F 3 "" H 12350 10400 50  0001 C CNN
+	1    12350 10400
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:3.3V #SUPPLY9
+U 1 1 B8640D54
+P 12800 7500
+AR Path="/B8640D54" Ref="#SUPPLY9"  Part="1" 
+AR Path="/5F6237C9/B8640D54" Ref="#SUPPLY09"  Part="1" 
+F 0 "#SUPPLY09" H 12800 7500 50  0001 C CNN
+F 1 "3.3V" H 12800 7610 59  0000 C BNN
+F 2 "" H 12800 7500 50  0001 C CNN
+F 3 "" H 12800 7500 50  0001 C CNN
+	1    12800 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:R-US_R0402 R1
+U 1 1 DE04AF3C
+P 14100 7300
+AR Path="/DE04AF3C" Ref="R1"  Part="1" 
+AR Path="/5F6237C9/DE04AF3C" Ref="R1"  Part="1" 
+F 0 "R1" H 13950 7359 59  0000 L BNN
+F 1 "10K" H 14100 7370 59  0000 L BNN
+F 2 "pc_sensything_v1.6:R0402" H 14100 7300 50  0001 C CNN
+F 3 "" H 14100 7300 50  0001 C CNN
+	1    14100 7300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:3.3V #SUPPLY21
+U 1 1 5F7BB948
+P 14100 7050
+AR Path="/5F7BB948" Ref="#SUPPLY21"  Part="1" 
+AR Path="/5F6237C9/5F7BB948" Ref="#SUPPLY021"  Part="1" 
+F 0 "#SUPPLY021" H 14100 7050 50  0001 C CNN
+F 1 "3.3V" H 14100 7160 59  0000 C BNN
+F 2 "" H 14100 7050 50  0001 C CNN
+F 3 "" H 14100 7050 50  0001 C CNN
+	1    14100 7050
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:R-US_R0402 R2
+U 1 1 0F3C4881
+P 4750 9350
+AR Path="/0F3C4881" Ref="R2"  Part="1" 
+AR Path="/5F6237C9/0F3C4881" Ref="R2"  Part="1" 
+F 0 "R2" H 4600 9409 59  0000 L BNN
+F 1 "10K" H 4750 9420 59  0000 L BNN
+F 2 "pc_sensything_v1.6:R0402" H 4750 9350 50  0001 C CNN
+F 3 "" H 4750 9350 50  0001 C CNN
+	1    4750 9350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:3.3V #SUPPLY24
+U 1 1 29BDD468
+P 4750 9050
+AR Path="/29BDD468" Ref="#SUPPLY24"  Part="1" 
+AR Path="/5F6237C9/29BDD468" Ref="#SUPPLY024"  Part="1" 
+F 0 "#SUPPLY024" H 4750 9050 50  0001 C CNN
+F 1 "3.3V" H 4750 9160 59  0000 C BNN
+F 2 "" H 4750 9050 50  0001 C CNN
+F 3 "" H 4750 9050 50  0001 C CNN
+	1    4750 9050
+	1    0    0    -1  
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:R-US_R0402 R7
+U 1 1 6C198247
+P 10800 2800
+AR Path="/6C198247" Ref="R7"  Part="1" 
+AR Path="/5F6237C9/6C198247" Ref="R7"  Part="1" 
+F 0 "R7" H 10650 2859 59  0000 L BNN
+F 1 "10K" H 10800 2870 59  0000 L BNN
+F 2 "pc_sensything_v1.6:R0402" H 10800 2800 50  0001 C CNN
+F 3 "" H 10800 2800 50  0001 C CNN
+	1    10800 2800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L pc_sensything_v1.6-eagle-import:3.3V #SUPPLY28
+U 1 1 390F8B27
+P 10800 2550
+AR Path="/390F8B27" Ref="#SUPPLY28"  Part="1" 
+AR Path="/5F6237C9/390F8B27" Ref="#SUPPLY028"  Part="1" 
+F 0 "#SUPPLY028" H 10800 2550 50  0001 C CNN
+F 1 "3.3V" H 10800 2660 59  0000 C BNN
+F 2 "" H 10800 2550 50  0001 C CNN
+F 3 "" H 10800 2550 50  0001 C CNN
+	1    10800 2550
+	1    0    0    -1  
+$EndComp
+Text Notes 12900 1900 0    75   ~ 0
+Boot Mode Configuration\nPin        Default     Boot   Download\nGPIO0        1         1       0\nU0TXD        1         1       x\nGPIO2        0         x       0\nGPIO4        0         x       x\nMTDO         1         x       x\nGPIO5        1         1       x\nIf U0TXD, GPIO2, GPIO5 are floating, \nGPIO0 determines boot mode
+Wire Notes Line
+	11900 4000 15900 4000
+Text Notes 1500 3700 0    85   ~ 0
+32.768kHz RTC Crystal
+Text Notes 6200 1300 0    80   ~ 0
+ESP32 VCC Range: 2.8-3.6V
+Text Notes 13900 3700 0    70   ~ 0
+If DTR is LOW, toggling RTS from HIGH to LOW resets to run mode.\nIf RTS is HIGH, toggling DTR from LOW to HIGH resets to bootloader.
+Wire Notes Line
+	4200 8500 4200 10700
+Wire Notes Line
+	8000 700  7900 700 
+Wire Notes Line
+	7900 700  7900 2200
+Wire Notes Line
+	10400 2200 10400 700 
+Wire Notes Line
+	8500 2200 8500 700 
+Wire Notes Line
+	9100 2200 9100 700 
+Wire Notes Line
+	9600 2200 9600 700 
+Text Notes 8000 1600 0    59   ~ 0
+VDD_3
+Text Notes 9300 1600 0    59   ~ 0
+VDD3P3_CPU
+Text Notes 10200 1600 0    59   ~ 0
+VDD3P3_RTC
+Wire Notes Line
+	8800 6600 8800 8500
+Wire Notes Line
+	3100 5300 3100 8500
+Text Notes 4400 8800 0    170  ~ 0
+ADC
+Text Notes 6150 6950 0    170  ~ 0
+RGB
+Text Notes 9350 6950 0    170  ~ 0
+BUTTON
+Text Notes 12550 6900 0    170  ~ 0
+SD_CARD
+Text Notes 1300 5650 0    170  ~ 0
+I2C(QWIIC)
+Text Notes 3300 5650 0    170  ~ 0
+BAT_MON
+Text Notes 1850 1150 0    170  ~ 0
+MCU
+Text Notes 1300 8800 0    170  ~ 0
+NOTE
+Text Notes 1300 9000 0    59   ~ 0
+* Pull up resistor connected both CS Pin
+Text Notes 1300 9100 0    59   ~ 0
+* Push button connected to GPIO15(Strapping pin)
+Text Notes 1300 9200 0    59   ~ 0
+* BAT_MON_EN pin connected to GPIO02(Strapping pin)
+Text Notes 1300 9300 0    59   ~ 0
+* DC/DC EN line removed and that pin connected to external CS pin
+Text Notes 1300 9400 0    59   ~ 0
+* DC/DC EN line connected to VIN 
+Text GLabel 7100 4700 0    10   BiDi ~ 0
+IO12_STRAP
+Text GLabel 5600 3700 0    10   BiDi ~ 0
+SENSOR_CAPN
+Wire Notes Line
+	12200 6600 12200 9800
+Wire Notes Line
+	1000 5300 5300 5300
+Wire Notes Line
+	5300 5300 5300 8500
+Wire Notes Line
+	5300 6600 16000 6600
+Wire Notes Line
+	1200 8500 12200 8500
+Wire Notes Line
+	7900 2200 10400 2200
+$EndSCHEMATC
