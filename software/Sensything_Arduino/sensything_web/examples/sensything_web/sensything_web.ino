@@ -10,6 +10,8 @@
 #include <SPI.h>
 #include "Protocentral_ADS1220.h"
 
+#include <FastLED.h>
+
 #define PGA          1                 // Programmable Gain = 1
 #define VREF         2.048            // Internal reference of 2.048V
 #define VFSR         VREF/PGA
@@ -18,13 +20,19 @@
 #define ADS1220_CS_PIN    4
 #define ADS1220_DRDY_PIN  34
 
+#define LED_PIN 14
+#define BUTTON_PIN 15
+
 Protocentral_ADS1220 pc_ads1220;
 int32_t adc_data;
 
 WebServer server(80);
 
-const char* ssid = "protocentral";
-const char* password = "open1234";
+const char* ssid = "CockerHouse";
+const char* password = "kiwilupa91";
+
+CRGB led;
+
 
 void handleRoot() {
  String adcValue = MAIN_page; //Read HTML contents
@@ -47,6 +55,10 @@ void setup(void){
   Serial.println();
   Serial.println("Loading sensything web-interface...");
 
+  FastLED.addLeds<NEOPIXEL, LED_PIN>(&led, 1);
+  led = 0x000500; // dim green
+  FastLED.show();
+
   pc_ads1220.begin(ADS1220_CS_PIN,ADS1220_DRDY_PIN);
   pc_ads1220.set_data_rate(DR_330SPS);
   pc_ads1220.set_pga_gain(PGA_GAIN_1);
@@ -64,6 +76,7 @@ void setup(void){
 
   while(WiFi.waitForConnectResult() != WL_CONNECTED){      
   Serial.print(".");
+  delay(100);
   }
     
   Serial.println("");
